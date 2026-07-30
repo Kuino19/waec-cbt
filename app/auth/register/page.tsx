@@ -24,10 +24,17 @@ export default function RegisterPage() {
     e.preventDefault()
     setLoading(true)
     setError('')
-    await new Promise(r => setTimeout(r, 1000))
     try {
-      const user = { email, role, name, id: `user_${Date.now()}` }
+      const res = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, role, name, parentCode: schoolCode })
+      })
+      if (!res.ok) throw new Error('Registration failed')
+      
+      const { user } = await res.json()
       localStorage.setItem('cbt_user', JSON.stringify(user))
+      
       if (role === 'student') router.push('/student/dashboard')
       else if (role === 'parent') router.push('/parent/dashboard')
       else router.push('/school/dashboard')

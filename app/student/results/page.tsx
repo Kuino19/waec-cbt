@@ -223,9 +223,34 @@ export default function ResultsPage() {
 
                   {/* Explanation */}
                   <div className="explanationBox" style={{ marginTop: 0 }}>
-                    <div className="explanationBox__label">
-                      {isCorrect ? '✅ Correct' : yourAnswer ? '❌ Incorrect' : '— Not Answered'}
-                      {' '}· Correct Answer: {q.answer} · {q.topic} ({q.year})
+                    <div className="explanationBox__label" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                      <span>
+                        {isCorrect ? '✅ Correct' : yourAnswer ? '❌ Incorrect' : '— Not Answered'}
+                        {' '}· Correct Answer: {q.answer} · {q.topic} ({q.year})
+                      </span>
+
+                      <button
+                        onClick={() => {
+                          const query = `Question: "${q.question}". My selected choice was (${yourAnswer || 'None'}), but the correct answer is (${q.answer}). Please explain why choice (${yourAnswer || 'None'}) was wrong and provide the WAEC syllabus method to solve it.`
+                          router.push(`/student/ai-tutor?subject=${result.subject}&topic=${encodeURIComponent(q.topic)}&question=${encodeURIComponent(query)}`)
+                        }}
+                        style={{
+                          padding: '3px 10px',
+                          background: 'rgba(14, 165, 233, 0.15)',
+                          border: '1px solid rgba(14, 165, 233, 0.3)',
+                          borderRadius: '6px',
+                          color: '#0EA5E9',
+                          fontSize: '0.75rem',
+                          fontWeight: 700,
+                          cursor: 'pointer',
+                          display: 'flex',
+                          alignItems: 'center',
+                          gap: '4px',
+                        }}
+                      >
+                        <Sparkles size={12} />
+                        Ask Gemini AI Why I Made a Mistake
+                      </button>
                     </div>
                     <div className="explanationBox__text">
                       <MathText text={q.explanation} />

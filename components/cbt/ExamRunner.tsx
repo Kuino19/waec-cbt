@@ -1,6 +1,7 @@
 'use client'
 import { useState, useEffect, useCallback, useRef } from 'react'
 import { useRouter } from 'next/navigation'
+import { Maximize, Minimize } from 'lucide-react'
 import type { ExamSession, Question, Subject } from '@/lib/types'
 import { SUBJECT_LABELS } from '@/lib/types'
 import {
@@ -12,6 +13,8 @@ import { startTracking, stopTracking } from '@/lib/activeTracker'
 import ExamTimer from './ExamTimer'
 import QuestionPalette from './QuestionPalette'
 import Calculator from './Calculator'
+import FormulaSheetModal from './FormulaSheetModal'
+import InfringementModal, { type InfringementLog } from './InfringementModal'
 import MathText from '@/components/ui/MathText'
 import { useToast, ToastProvider } from '@/components/ui/Toast'
 import '@/styles/cbt.css'
@@ -47,6 +50,43 @@ function ExamRunnerInner({
   })
   const [fontSize, setFontSize] = useState(16)
   const [showCalc, setShowCalc] = useState(false)
+  const [showFormulas, setShowFormulas] = useState(false)
+  const [isFullscreen, setIsFullscreen] = useState(false)
+  const [strikeLogs, setStrikeLogs] = useState<InfringementLog[]>([])
+  const [showInfringementModal, setShowInfringementModal] = useState(false)
+
+  // Fullscreen helper functions
+  const toggleFullscreen = () => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().then(() => setIsFullscreen(true)).catch(() => {})
+    } else {
+      if (document.exitFullscreen) {
+        document.exitFullscreen().then(() => setIsFullscreen(false)).catch(() => {})
+      }
+    }
+  }
+
+  // Auto-enter fullscreen on initial mount & track fullscreen state
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      const isFS = !!document.fullscreenElement
+      setIsFullscreen(isFS)
+      if (!isFS && mode === 'mock') {
+        addToast('⚠️ Warning: Exiting full screen mode is monitored during mock exams.', 'warning')
+      }
+    }
+
+    document.addEventListener('fullscreenchange', handleFullscreenChange)
+
+    // Attempt auto-fullscreen on exam load
+    if (document.documentElement.requestFullscreen) {
+      document.documentElement.requestFullscreen().then(() => setIsFullscreen(true)).catch(() => {})
+    }
+
+    return () => {
+      document.removeEventListener('fullscreenchange', handleFullscreenChange)
+    }
+  }, [mode, addToast])
   const [showSubmitModal, setShowSubmitModal] = useState(false)
   const [isIdle, setIsIdle] = useState(false)
   const [isOnline, setIsOnline] = useState(true)
@@ -64,14 +104,19 @@ function ExamRunnerInner({
     antiCheat.activate({
       maxStrikes: 3,
       onStrike: (count, reason) => {
+        const newLog: InfringementLog = {
+          strikeNumber: count,
+          reason,
+          timestamp: new Date().toLocaleTimeString(),
+        }
+        setStrikeLogs(prev => [...prev, newLog])
         addToast(
-          `⚠️ Warning ${count}/3: ${reason}. ${count >= 2 ? 'Next violation auto-submits!' : ''}`,
+          `⚠️ Violation ${count}/3: ${reason}. ${count >= 2 ? 'Next violation auto-submits!' : ''}`,
           'warning'
         )
       },
       onAutoSubmit: () => {
-        addToast('🚨 Exam auto-submitted due to repeated violations.', 'error')
-        handleSubmitForced()
+        setShowInfringementModal(true)
       },
     })
     return () => antiCheat.deactivate()
@@ -240,6 +285,47 @@ function ExamRunnerInner({
             onMouseLeave={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.1)')}
           >
             𝑥 Calc
+          </button>
+
+          {/* Formula Sheet */}
+          <button
+            onClick={() => setShowFormulas(true)}
+            aria-label="Open formula sheet"
+            style={{
+              padding: '5px 12px', background: 'rgba(139,92,246,0.2)',
+              color: '#C084FC', border: '1px solid rgba(139,92,246,0.3)',
+              borderRadius: 'var(--radius-sm)', fontFamily: 'var(--font-mono)',
+              fontSize: 'var(--text-xs)', fontWeight: 700, cursor: 'pointer',
+              transition: 'all var(--transition-fast)',
+            }}
+            onMouseEnter={e => (e.currentTarget.style.background = 'rgba(139,92,246,0.4)')}
+            onMouseLeave={e => (e.currentTarget.style.background = 'rgba(139,92,246,0.2)')}
+          >
+            📚 Formulas
+          </button>
+
+          {/* Fullscreen Toggle */}
+          <button
+            onClick={toggleFullscreen}
+            aria-label="Toggle Fullscreen Exam Mode"
+            title="Toggle Fullscreen Exam Mode"
+            style={{
+              padding: '5px 12px',
+              background: isFullscreen ? 'rgba(34, 197, 94, 0.2)' : 'rgba(255,255,255,0.1)',
+              color: isFullscreen ? '#4ADE80' : 'white',
+              border: '1px solid rgba(255,255,255,0.15)',
+              borderRadius: 'var(--radius-sm)',
+              fontFamily: 'var(--font-mono)',
+              fontSize: 'var(--text-xs)',
+              fontWeight: 700,
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              gap: 4,
+            }}
+          >
+            {isFullscreen ? <Minimize size={14} /> : <Maximize size={14} />}
+            {isFullscreen ? 'Exit Fullscreen' : '⛶ Fullscreen'}
           </button>
         </div>
       </header>
@@ -505,6 +591,16 @@ function ExamRunnerInner({
           </div>
         </div>
       )}
+
+      {/* Formula Sheet Modal */}
+      <FormulaSheetModal isOpen={showFormulas} onClose={() => setShowFormulas(false)} />
+
+      {/* Anti-Cheat Infringement Modal */}
+      <InfringementModal
+        isOpen={showInfringementModal}
+        logs={strikeLogs}
+        onProceedToResults={() => handleSubmitForced()}
+      />
     </div>
   )
 }

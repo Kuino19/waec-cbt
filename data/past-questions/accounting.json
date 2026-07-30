@@ -1,0 +1,4007 @@
+[
+  {
+    "id": "bb0d34be-2dd1-4429-9d89-47b6cc6924b2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The distinguishing feature between a two-column and three-columncash book is",
+    "options": {
+      "A": "discount column",
+      "B": "cash column",
+      "C": "bank column",
+      "D": "ledger folio"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d79f8bbb-763b-4527-a7a8-2e616baa84c9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A suspense account is used to",
+    "options": {
+      "A": "agree the trial balance",
+      "B": "record sales",
+      "C": "record purchases",
+      "D": "correct errors"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "129e6cea-1095-45c2-9b99-ad126da10c35",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The art of collecting, recording, presenting and interpreting accounting data is",
+    "options": {
+      "A": "cost accounting",
+      "B": "management accounting",
+      "C": "financial accounting",
+      "D": "data processing."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2c75a8d9-8324-460f-85a4-d02bc9bd18a0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The objective of accounting information is to enable users to",
+    "options": {
+      "A": "prepare the financial statements.",
+      "B": "value stock",
+      "C": "make decisions",
+      "D": "prepare budgets"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "51b4039a-79a4-4079-b2c5-5edacfbb6065",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following describes a trial balance?",
+    "options": {
+      "A": "It is a special account",
+      "B": "It is a list of balances in the books",
+      "C": "It reveals the financial position of a business",
+      "D": "It shows all the entries in the books of a business"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9626329c-30f5-4221-9385-7643c9bb0db1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The source document used to make entries in the purchases day book is",
+    "options": {
+      "A": "debit note",
+      "B": "credit note",
+      "C": "invoice",
+      "D": "receipt"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e85e972d-7ce2-46e6-a488-8813b0836ca7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The lodgment of business cash into the business bank account is an example of",
+    "options": {
+      "A": "contra entry",
+      "B": "bank reconciliation",
+      "C": "self balancing ledger",
+      "D": "reversal entry"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d0887516-dd86-4723-9a82-387ab58f7fda",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "To correct an error, the Purchases Account was debited while Suspense Account was credited. Which  of  the following was the cause of the error?",
+    "options": {
+      "A": "Under casting of purchases",
+      "B": "Overcasting of purchases",
+      "C": "Original entry.",
+      "D": "Transportation of returns outwards"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "02fe69ce-726b-46fb-a87c-a021111b858a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The depreciation method in which the number of years of the useful life of an asset is allocated in a reverse order is",
+    "options": {
+      "A": "straight line",
+      "B": "reducing balance",
+      "C": "sum of the years’ digits",
+      "D": "revaluation."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ff0bcd19-2109-401c-a403-8d09b8532995",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Trade discounts are given for",
+    "options": {
+      "A": "bulk purchases",
+      "B": "prompt payment",
+      "C": "quick delivery",
+      "D": "cash payment"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ac3a0897-3bca-4e81-8304-dc7ccb1683ee",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is not a feature of accounting information?",
+    "options": {
+      "A": "Affordability",
+      "B": "Timeliness",
+      "C": "Accuracy",
+      "D": "Completeness"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3bc27edb-2371-402d-a423-a7a1ff07f946",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "book that contains individual accounts of suppliers is the",
+    "options": {
+      "A": "purchases ledger",
+      "B": "general ledger",
+      "C": "nominal ledger",
+      "D": "sales ledger"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fa4a54f1-4b0d-4940-89de-0a515c4be3ef",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "credit balance is",
+    "options": {
+      "A": "a liability or an expense.",
+      "B": "a liability or an income.",
+      "C": "an expenditure or an income.",
+      "D": "an asset or an expense."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d8415ff3-e4c2-40df-818f-49cab5b1e8d6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Subscription in advance is treated in the Balance Sheet of \tnon-profit making organizations as",
+    "options": {
+      "A": "current asset",
+      "B": "fixed asset",
+      "C": "Current liability",
+      "D": "accumulated fund"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2f4cbcfc-cbaf-44a5-90e8-1f2928f0da95",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "A system where a separate cash book is maintained for small payments is",
+    "options": {
+      "A": "single entry",
+      "B": "imprest",
+      "C": "float",
+      "D": "reimbursement."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c676b741-4395-46f6-81bb-2f5594da0d39",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "When closing stock is overstated, it would reduce",
+    "options": {
+      "A": "cost of sales and increase gross profit.",
+      "B": "gross profit and increase cost of sales.",
+      "C": "purchases and increase sales.",
+      "D": "sales and increase purchases."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "428600f2-2289-4b96-8434-bc033c1ec68c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+    "options": {
+      "A": "Closing Capital - Drawings - Capital Introduced",
+      "B": "Opening Capital + Drawings - Closing Capital",
+      "C": "Closing Capital + Opening Capital - Drawings",
+      "D": "Closing Capital + Drawings - Opening Capital"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "56a2fb00-4e53-41a2-b415-212e217ba47a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "In the operation of an imprest system of petty cash, the",
+    "options": {
+      "A": "petty cashier pays all expenses",
+      "B": "petty cashier pays money to the accountant",
+      "C": "petty cashier regularly begins each period with the same amount of money",
+      "D": "main cashier accounts to the petty cashier for some expenses made by him"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "72d4aae2-390a-45b9-b794-9082a1e751a1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is not a characteristic of a Trial Balance?",
+    "options": {
+      "A": "It has columns for debit and credit balances",
+      "B": "Total of debit balance equals total of credit balance",
+      "C": "It is a statement",
+      "D": "It is an account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "63c9cb3b-cdeb-44f1-b3f1-71435c88e5a7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A Sales Day Book is used to record",
+    "options": {
+      "A": "cash sales of stock",
+      "B": "credit sales of stock",
+      "C": "cash and credit sales of stock",
+      "D": "cash sales of fixed assets"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "211d92ed-e4cb-4220-b0ed-81b3781837e1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Public sector accounting is practiced in",
+    "options": {
+      "A": "public limited companies",
+      "B": "government organizations",
+      "C": "profit making organizations",
+      "D": "public trading companies."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5babe177-55d8-49ee-a25b-c377bd9d6637",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not a source document?",
+    "options": {
+      "A": "Journal proper",
+      "B": "Sales invoice",
+      "C": "Debit note",
+      "D": "Credit note"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4535a24d-1307-4dff-a7f9-72a9b3e64d78",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Purchase invoice is first entered in the",
+    "options": {
+      "A": "purchases account",
+      "B": "cash book",
+      "C": "sales journal",
+      "D": "purchase journal"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "de136075-7a65-4e79-859f-4a519a961f03",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An example of a credit entry in a profit and loss account is",
+    "options": {
+      "A": "carriage inwards",
+      "B": "carriage outwards",
+      "C": "discounts allowed",
+      "D": "discounts received"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3abf713b-c3e0-4b87-9389-636aacb09022",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The capital of a sole trader changes as a result of",
+    "options": {
+      "A": "paying wages by cash.",
+      "B": "equipment purchased by cheque.",
+      "C": "drawings by cheque.",
+      "D": "purchases on credit."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c291e258-f159-433e-9ae8-4ef14f3d4444",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is not a capital expenditure to a local government?",
+    "options": {
+      "A": "Beds",
+      "B": "Theatre equipment",
+      "C": "Incubators",
+      "D": "Drugs"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7b5433f8-f19a-4229-86fe-b4042956f3af",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "A book that contains the accounts for the financial transactions of an organization is the",
+    "options": {
+      "A": "journal",
+      "B": "ledger",
+      "C": "folio",
+      "D": "register"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8bdb90b2-c8bc-4f40-9286-1fddc4c606cc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "A fixed asset fully written-down by a trader is now considered to be worth N5,000. The double entry required to effect       this is: debit",
+    "options": {
+      "A": "Asset Account; credit Purchases Account.",
+      "B": "Asset Account; credit Capital Account.",
+      "C": "Capital Account; credit Asset Account.",
+      "D": "Capital Account; credit Profit and Loss Account."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ad36b759-ef99-465d-9602-17582375f39b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Assets acquired is recorded by debiting",
+    "options": {
+      "A": "Asset Account, crediting Cash Account",
+      "B": "Cash Account, crediting Asset Account",
+      "C": "Purchase of Business Account, crediting Sale of Business Account",
+      "D": "Asset Account, crediting Purchase of business Account"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "57df1c4a-1bfb-42cf-b7cb-dc75349ed583",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following subsidiary books involves cash movement?",
+    "options": {
+      "A": "Sales day book",
+      "B": "Purchases day book",
+      "C": "Returns inwards book",
+      "D": "Petty cash book"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9979e7c8-7be9-4780-96c6-9fd6d59005a2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The order of financial accounting process involves: (I) recording; (II) presenting; (III) collecting; (IV) analyzing.",
+    "options": {
+      "A": "I, II. Ill and IV",
+      "B": "II, III, I and IV",
+      "C": "Ill, I, II and IV",
+      "D": "IV, III, II and I"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5c1ac0f8-d68a-4465-894c-cb2cd0562dfd",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A Receipt and Payments Account reveals",
+    "options": {
+      "A": "net profit",
+      "B": "surplus",
+      "C": "cash in hand",
+      "D": "gross profit"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7979ec91-b5ce-4538-a460-d23e68251cb2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "A sales ledger contains",
+    "options": {
+      "A": "creditors’ accounts",
+      "B": "nominal accounts",
+      "C": "real accounts",
+      "D": "debtors’ accounts."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "41943428-e893-4c8f-bb33-bee5efc2b60e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is a book of original entry?",
+    "options": {
+      "A": "Ledger",
+      "B": "Balance sheet",
+      "C": "Bank statement",
+      "D": "Sales journal"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "33dbf05f-09f7-476f-870d-52be846d10dc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Goods returned to a supplier is",
+    "options": {
+      "A": "debited to Returns outwards account",
+      "B": "credited to Returns outwards account",
+      "C": "debited to Returns inwards account",
+      "D": "credited to Returns inwards account"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e93c1721-b535-45b8-b323-b32fc90b3bea",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The accounting treatment for a dishonoured cheque is; debit",
+    "options": {
+      "A": "Customer’s Account; Credit Bank Account",
+      "B": "Bank Account; Credit Customer’s Account",
+      "C": "Customer’s Account; Credit Sales Account",
+      "D": "Sales Account; Credit Customer’s Account\\"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4ab16566-7b20-4691-a34e-4244a0a070ca",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A dishonoured cheque is",
+    "options": {
+      "A": "debited in the cash book.",
+      "B": "credited in the cash book.",
+      "C": "double entry in the cash book.",
+      "D": "credited in the bank book."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "97b4c7bf-7332-4262-8021-9435e9ee4b81",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "An example of appropriation of profit in a company is",
+    "options": {
+      "A": "salaries",
+      "B": "rent income",
+      "C": "debenture interest",
+      "D": "dividend."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "82c8d813-6f21-4b35-95cf-5c05335b3de2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Books of account consists of",
+    "options": {
+      "A": "ledgers and subsidiary books",
+      "B": "ledgers and principal books",
+      "C": "folios and subsidiary books",
+      "D": "ledgers and cash book."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6a63d01d-33b9-4bcf-81c7-21d96084ed96",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "A Balance Sheet shows only",
+    "options": {
+      "A": "fixed assets and current assets",
+      "B": "assets and long term liabilities.",
+      "C": "assets and liabilities",
+      "D": "assets and capital"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "782cef11-bc80-4bcb-84ee-8533592f4aff",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is a real account?",
+    "options": {
+      "A": "Plant account",
+      "B": "Salaries account",
+      "C": "Creditors account",
+      "D": "Trading account"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d88d9455-f846-4460-bf6c-2d81f6e9715d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Net turnover is referred to as",
+    "options": {
+      "A": "purchases",
+      "B": "assets",
+      "C": "sales",
+      "D": "profits"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "282b54a0-0f6d-4907-9f63-b5301889e4cc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A petty cashier received a float of GHc 120 and spent GHc 84. The imprest is",
+    "options": {
+      "A": "GHc 204.",
+      "B": "GHc 120.",
+      "C": "GHc 84.",
+      "D": "GHc 36."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ddf05102-3682-4bff-865c-ddeecb2b1e7f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "In a partnership goodwill is recognized when",
+    "options": {
+      "A": "a new partner is admitted",
+      "B": "a partner is dormant",
+      "C": "the business is making huge profit",
+      "D": "the business has good customer relations"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1806c640-68a0-46f0-a634-572c8f33baa7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The amount set aside out of profits earned by a company which are not meant for liability or contingency are",
+    "options": {
+      "A": "dividends",
+      "B": "provisions",
+      "C": "retained profits",
+      "D": "reserves"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a8c0b5b3-72cd-4225-832e-b5000e6e9bf0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The process of entering transaction from one book to another is",
+    "options": {
+      "A": "reading.",
+      "B": "posting.",
+      "C": "numbering",
+      "D": "listing"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "79ff8d7f-b40d-429b-8b5e-d21948d66875",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The accounting ledger for goods sold on credit are debit",
+    "options": {
+      "A": "Debtors Account, credit Sales Account",
+      "B": "Creditors Account, credit Sales Account",
+      "C": "Sales Account, credit Debtors Account",
+      "D": "Sales Account, credit Creditors Account"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "22bf4912-778b-4243-a915-c6033bee43c0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following transactions will result in disagreement between the cash book and the bank statement?",
+    "options": {
+      "A": "Selling of goods on credit to a customer",
+      "B": "Withdrawal of goods by the proprietor for his personal use",
+      "C": "Cheque paid directly into the bank account by a customer",
+      "D": "Omission of purchases received from a supplier on credit"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c8e1fe24-dd80-4e39-9e67-ca6b89608819",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is not a book of original entry?",
+    "options": {
+      "A": "Cash Book",
+      "B": "Purchases Ledger",
+      "C": "Returns Outwards Journal",
+      "D": "General Journal"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4161acd9-0204-4538-8691-fe80b7243d8a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is a normal account?",
+    "options": {
+      "A": "Machinery",
+      "B": "Debtors",
+      "C": "Creditors",
+      "D": "Salaries"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6d0e0537-f898-436f-a088-da73ead068de",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The basis of accounting which eliminates debtors and creditors is",
+    "options": {
+      "A": "cash basis",
+      "B": "accrual basis",
+      "C": "fund basis",
+      "D": "commitment basis."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "80724bd2-4be6-42e5-abd0-0cd4fdf5c279",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "which of the following is a Trading Account item?",
+    "options": {
+      "A": "Discounts allowed",
+      "B": "Discounts received",
+      "C": "Carriage outwards",
+      "D": "Carriage inwards"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "15f3fc60-b644-4d06-a399-174c577e6c43",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is not a book of original entry?",
+    "options": {
+      "A": "Sales journal",
+      "B": "Purchases account",
+      "C": "Cash account",
+      "D": "Return inwards journal"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "729450fe-7c8b-4433-aadd-54763001bf67",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Purchases Account is overcast by N200, while Wages Account is under cast by N200. This is",
+    "options": {
+      "A": "an error of omission",
+      "B": "a compensating error",
+      "C": "an error of commission",
+      "D": "an error of principle"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9356eda1-141b-479a-a0f1-75542a8024a0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The current ratio is",
+    "options": {
+      "A": "1.87 : 1.",
+      "B": "1 : 1.87.",
+      "C": "1 : 2.",
+      "D": "2 : 1."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "85ff6527-48e9-47af-9e5e-1d171e77811b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The net book value at the time of sale was",
+    "options": {
+      "A": "N=  16,000",
+      "B": "N=  14,000",
+      "C": "N=  12,000",
+      "D": "N= 6,000."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9a8a849e-7ada-4dd6-9250-24b2bcf08d59",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a revenue account?",
+    "options": {
+      "A": "Sales",
+      "B": "Purchases",
+      "C": "Discount received",
+      "D": "Interest received"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7c92b3f2-9976-41b5-a827-59e3bd0731a2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The addition of prime cost and factory overheads is",
+    "options": {
+      "A": "total factory overheads.",
+      "B": "market value of goods produced.",
+      "C": "cost of goods produced",
+      "D": "work-in-progress."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ba200394-0729-4295-be7b-75cffe14df1f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "What is the ledger entry for the sale of plant and machinery on credit to Wilson?",
+    "options": {
+      "A": "Credit Sales Account and debit Cash Account",
+      "B": "Credit Plant and Machinery Account and debit Wilson’s Account",
+      "C": "Credit Sales Account and debit Wilson’s Account",
+      "D": "Credit Plant and Machinery Account and debit Cash Account"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0dc5102d-557f-4c18-a4ea-d236888bd06f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is used to record the disposal of a fixed asset?",
+    "options": {
+      "A": "Journal  Proper",
+      "B": "Petty  Cash  Book",
+      "C": "Sales Day Book",
+      "D": "Purchases Day Book"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "73952964-d1e1-4487-9d61-feb10e8de041",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The capital employed is",
+    "options": {
+      "A": "N=740,000.",
+      "B": "N=580,000.",
+      "C": "N=370,000.",
+      "D": "N=280,000."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bdac5338-9401-4050-a835-c6032e9823f7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Accumulated depreciation at the time of sale was",
+    "options": {
+      "A": "N= 16,000",
+      "B": "N=  14,000",
+      "C": "N=  12,000",
+      "D": "N=  8,000"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d9aa6e05-cb34-4988-90e5-55dddf36ef8b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "If  no profit is to be retained, proposed preference shares dividend is",
+    "options": {
+      "A": "N  28,000",
+      "B": "N  16,000",
+      "C": "N  12,000.",
+      "D": "N  4,000"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "166bc6b9-35ad-46f6-ac4b-8e54ca7bb6c4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Capital receipt is collected",
+    "options": {
+      "A": "on sales of motor vehicle.",
+      "B": "on sales of stock in trade.",
+      "C": "from trade debtor",
+      "D": "from trading activities."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4dfccb06-1106-4948-b35d-1a3ee8d70d24",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Discount Received Account is a",
+    "options": {
+      "A": "real account",
+      "B": "personal account",
+      "C": "nominal account",
+      "D": "profit and loss account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5e2d50ca-e406-4950-bd09-deaa8c35e570",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The annual depreciation is",
+    "options": {
+      "A": "N9,000",
+      "B": "N8,500",
+      "C": "N8,000",
+      "D": "N6,500"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fad42397-b7fc-4c9b-b405-d52f3cdffb74",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The returns on capital employed is",
+    "options": {
+      "A": "17.2%",
+      "B": "16.2%.",
+      "C": "15.2%.",
+      "D": "11.2%."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5157e7e0-81e2-43bb-808a-8ee1ed3ee43b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The prof it on sale was",
+    "options": {
+      "A": "N=  8,000",
+      "B": "N=  7,000",
+      "C": "N=  6,000",
+      "D": "N=  1,000."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5601354b-da9a-462b-8ff0-211c8f608ccf",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "If  no profit is to be retained, proposed ordinary shares dividend is",
+    "options": {
+      "A": "N   48,000",
+      "B": "N  44,000",
+      "C": "N  40,000",
+      "D": "N  28,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7686a618-f096-4edd-a023-40adce16d58a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is an example of factory overheads?",
+    "options": {
+      "A": "Salary of marketing officer",
+      "B": "Salary of production officer",
+      "C": "Salary of accounting officer",
+      "D": "Wages of machine operator"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5ce465e2-3881-45d7-b332-0a22db414dda",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following accounts has a credit balance?",
+    "options": {
+      "A": "Capital",
+      "B": "Cash",
+      "C": "Drawings",
+      "D": "Premises"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "82b0fae5-8815-4364-8439-fa2c554e61dd",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The accumulated depreciation as at 31/12/2013 is",
+    "options": {
+      "A": "N18,500",
+      "B": "N17,000",
+      "C": "N16,000",
+      "D": "N8,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "65072c96-bb5a-4179-966a-6c1e8004bd65",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The double entry principle states that",
+    "options": {
+      "A": "every debit entry must have a corresponding credit entry",
+      "B": "every credit entry must have a corresponding double entry",
+      "C": "every debit entry must have a corresponding double entry",
+      "D": "every asset must have a corresponding liability."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "923cc3bf-906f-4360-b760-927a93ecc6c5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "In Manufacturing Account, prime cost plus factory overhead is known as",
+    "options": {
+      "A": "conversion cost",
+      "B": "cost of raw materials consumed",
+      "C": "total cost",
+      "D": "production cost"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7834a4b7-f699-4039-8dcc-8e38968018ff",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The dividend per ordinary share for the year is",
+    "options": {
+      "A": "N  0.88 kobo",
+      "B": "N  0.40 kobo",
+      "C": "N  0.20 kobo",
+      "D": "N  0.17 kobo"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5a9df087-6a23-4df5-995b-4497987d8380",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
+    "options": {
+      "A": "Cash Account; credit Capital Account.",
+      "B": "Capital Account; credit Cash Account.",
+      "C": "Purchases Account; credit Cash Account.",
+      "D": "Expenses Account; credit Capital Account."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fae26944-7b9e-4ff2-8050-d9db1f67b31b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The accounting entry to correct sales day book overcast is",
+    "options": {
+      "A": "debit Sales Account and credit Debtors Account",
+      "B": "debit Suspense Account and credit Sales Account",
+      "C": "debit Debtors Account and credit Suspense Account",
+      "D": "debit Sales Account and credit Suspense Account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5c07d24b-d92d-4179-91c6-d88960a028e1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An error of principle is made, if",
+    "options": {
+      "A": "an entry has been made in the wrong class of account",
+      "B": "a transaction has been completely omitted",
+      "C": "an entry has been made on the wrong side of the two accounts concerned",
+      "D": "a transaction is entered in both accounts for the wrong amount"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "238399ed-f4dc-42e7-b2b1-d692d4ae3709",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is a nominal account?",
+    "options": {
+      "A": "Machinery Account",
+      "B": "Drawings Account",
+      "C": "Debtors Account",
+      "D": "Wages Account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "473d859d-cae7-43a9-a6cd-c6ef8cc65bc8",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is an advantage of the imprest system?",
+    "options": {
+      "A": "Making high profits in the business",
+      "B": "Rewarding the imprest holder",
+      "C": "Easy preparation of the final accounts",
+      "D": "Meeting small items of expenditure"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7dd8a987-e42a-4ed7-b658-f92ff885a970",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "A customer who returns goods to the supplier because they are defective is issued a",
+    "options": {
+      "A": "debit note",
+      "B": "credit note",
+      "C": "delivery note",
+      "D": "bank note."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c91ea4a6-0ab4-433d-93dc-cada7d425405",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Branch Stock Account is used to determine the",
+    "options": {
+      "A": "net value of goods sent to branch.",
+      "B": "gross profit of the branch.",
+      "C": "branch credit sales.",
+      "D": "branch net profit or loss."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f9818df1-3de8-4ea5-8376-5b7c867c5988",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following expresses the accounting equating?",
+    "options": {
+      "A": "Capital + Assets = Liabilities",
+      "B": "Assets - Liabilities = Capital",
+      "C": "Liabilities + Current Assets = Fixed Assets",
+      "D": "Liabilities - Capital = Current Assets"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8e11f3b3-8774-40ec-98a9-3f88480e3925",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is entered in the general journal?",
+    "options": {
+      "A": "Purchase of goods",
+      "B": "Sale of goods on credit",
+      "C": "Returns inwards",
+      "D": "Acquisition of fixed assets"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2732b37a-1ffa-479b-9ea5-62e734a452df",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Reserves account is kept in the",
+    "options": {
+      "A": "private ledger.",
+      "B": "creditors ledger.",
+      "C": "nominal ledger.",
+      "D": "debtors ledger."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fb026c27-4e36-4cc7-8de0-12967a57cae7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Where a business is purchased, the full amount of the purchase consideration is credited to",
+    "options": {
+      "A": "Purchase of Business Account",
+      "B": "Creditor’s Account",
+      "C": "Vendor’s Account",
+      "D": "Purchaser’s Account."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "17e5959e-41c2-464b-bc65-0767597c0893",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Cross referencing among different books of accounts is achieved with the use of",
+    "options": {
+      "A": "columns",
+      "B": "reference numbers",
+      "C": "folio",
+      "D": "margin."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4d67c25e-463b-4756-bc64-e09ce1659cbe",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The name given to a budget in public service accounting is",
+    "options": {
+      "A": "vote.",
+      "B": "subvention.",
+      "C": "general order.",
+      "D": "estimate."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a7064c52-30bb-49ad-b56a-0d2d88c360bd",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "options": {
+      "A": "cheque",
+      "B": "payment voucher",
+      "C": "debit note",
+      "D": "credit note"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8e8d29b9-513c-469c-b7ef-7cd8317bc850",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The cost of carriage outward is classified as",
+    "options": {
+      "A": "a selling and distribution expense",
+      "B": "an administrative expense",
+      "C": "a trading expense",
+      "D": "a finance expense"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "088c48f8-3afd-4a5e-ad2b-a1c566fb76cb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "An advantage of control account is",
+    "options": {
+      "A": "locating figures.",
+      "B": "adding figures.",
+      "C": "changing figures.",
+      "D": "locating errors."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9426adb7-b910-42b9-8d81-b6f705a8dd16",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A financial plan of action expressed in monetary terms is known as",
+    "options": {
+      "A": "imprest",
+      "B": "consolidated fund",
+      "C": "warrant",
+      "D": "budget"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "493a3b77-56ff-4f72-8416-7017af009196",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "In company accounts, profit after tax is shared in the",
+    "options": {
+      "A": "appropriation account",
+      "B": "revaluation account",
+      "C": "current account",
+      "D": "realization account."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fa47c4be-47bf-46c8-b33c-314ae6813999",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not prepared by a partnership?",
+    "options": {
+      "A": "Trading Account",
+      "B": "Profit and Loss Account",
+      "C": "Income and Expenditure Account",
+      "D": "Profit and Loss Appropriation Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4aec0a6e-263e-48da-b739-988dab07df09",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Unpresented cheques are cheque",
+    "options": {
+      "A": "that have been recorded in the cash book, but not by the bank",
+      "B": "that have been received by the bank, but recorded in the cash book",
+      "C": "returned by the bank",
+      "D": "written, but not handed over to customers"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fb266752-a9e9-41bb-a9e3-969194582a03",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The purchase of ten ceiling fans by Akpan Electronic Enterprises will be recorded as",
+    "options": {
+      "A": "an acquisition of fixed asset",
+      "B": "an expense in its general office expense account",
+      "C": "part of capital in the capital account",
+      "D": "an acquisition of stock"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ee1c4ee9-dc22-49e2-8938-31821a893358",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The accumulated fund of a not-for-profit making organization is",
+    "options": {
+      "A": "a fixed asset.",
+      "B": "a current asset.",
+      "C": "a liability.",
+      "D": "capital."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0d52d948-ff97-48c0-b6e1-98fd1c523a0a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is not a source document for recording sales?",
+    "options": {
+      "A": "Debit note",
+      "B": "Credit note",
+      "C": "Receipt",
+      "D": "Sales journal"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d2b58170-f9cc-403f-b515-8af79ee21a3a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a source of revenue to a government?",
+    "options": {
+      "A": "Taxation",
+      "B": "Sale of goods",
+      "C": "Imposition of fines",
+      "D": "Grants"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d5ecc89b-5ae4-41a3-9d77-c127c0b4af2d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "A partner who only makes capital contribution but does not take part in the management of the partnership business is a/an",
+    "options": {
+      "A": "ordinary partner",
+      "B": "limited partner",
+      "C": "dormant partner",
+      "D": "nominal partner"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d4fd1a1e-38ec-4014-a2ca-02029c52e031",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The cost of putting goods into a saleable condition is charged to",
+    "options": {
+      "A": "balance sheet",
+      "B": "trial balance",
+      "C": "profit and loss account",
+      "D": "trading account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c4842bd0-76c4-4842-89c5-090510760a98",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following accounts would appear in the nominal ledger?  (I)  Sanison’s account (a debtor)  ( II) Motor vehicle account (III) Sales account  (IV)  Rent and rates account",
+    "options": {
+      "A": "I, II and III only",
+      "B": "I, III and IV only",
+      "C": "II, III and IV only",
+      "D": "Ill and IV only"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5b9cce95-cd2e-4f8a-9357-2970fc7ab365",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A business is treated as being separate from the owners. This statement is emphasized by",
+    "options": {
+      "A": "consistency concept.",
+      "B": "realization concept.",
+      "C": "going concern concept.",
+      "D": "business entity concept."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "30f20367-591d-409a-9e99-3c2ea556112e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The mark-up is",
+    "options": {
+      "A": "N  15,000",
+      "B": "N 9,000",
+      "C": "N  4,000",
+      "D": "N  3,000"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d93e61bd-2a9b-481a-b4d5-07683d06fddc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Whatever is fed into the computer is exactly what would be processed and produced as output. This is the concept of",
+    "options": {
+      "A": "sorting out",
+      "B": "last in, first out",
+      "C": "first in, first out",
+      "D": "garbage in, garbage out."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "cb85dfa3-f02b-4d6e-b273-9774cad0e313",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is component of prime cost?",
+    "options": {
+      "A": "Depreciation",
+      "B": "Royalty",
+      "C": "Factory rent",
+      "D": "Factory electricity"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "47bd70b8-b32f-418a-92e1-9eae0c3a7932",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is not a method of depreciating fixed assets?",
+    "options": {
+      "A": "Revaluation",
+      "B": "Straight line",
+      "C": "Diminishing balance",
+      "D": "Obsolescence"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "cf5c0d33-1dc0-4021-9e07-f4fd683851d5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The sum of direct cost in a manufacturing account is",
+    "options": {
+      "A": "production cost",
+      "B": "prime cost",
+      "C": "total cost",
+      "D": "finance cost"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f3c593f5-d799-47cd-bdae-aad363acd4f2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is recorded on the debit side of the Trial Balance?",
+    "options": {
+      "A": "Bank overdraft",
+      "B": "Returns outwards",
+      "C": "Purchases",
+      "D": "Capital"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0d238467-7a9a-4fb3-a284-63cda0d0bfc3",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The double entry required for the mark-up is debit Branch",
+    "options": {
+      "A": "Sales Account, credit Branch Adjustment Account",
+      "B": "Adjustment Account, credit Branch Stock Account",
+      "C": "Stock Account, credit Branch Adjustment Account",
+      "D": "Profit and Loss Account, credit Branch Stock Account,"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "131b494a-46e4-409d-bde4-03ddbe05aeac",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Bank reconciliation statement reconciles",
+    "options": {
+      "A": "bank and cash balances in the cash book",
+      "B": "bank balance in the cash book and bank statement balance",
+      "C": "cash balance in the cash book and bank statement balance",
+      "D": "bank balance brought down and bank balance carried down in the cash bcok."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4c95d374-1028-421b-b1c7-3914a968f349",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+    "options": {
+      "A": "going concern.",
+      "B": "entity.",
+      "C": "consistency.",
+      "D": "realization."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3053095a-89cb-4619-90cc-88ccc2b91813",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "In preparing a profit and loss account, a decrease in provision for doubtful debts accounts is treated as",
+    "options": {
+      "A": "Currentability",
+      "B": "expenses",
+      "C": "Income",
+      "D": "Current asset"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4be0c08f-8e93-4490-b2d0-fb103be49c1e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Net profit in a business is",
+    "options": {
+      "A": "the amount of money taken out of the business by the owner",
+      "B": "the cash in the business bank account",
+      "C": "the difference between sales and cost of sales",
+      "D": "sale revenue less cost of sales and expenses"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5dc817b0-f7cf-418b-9854-9600d2566990",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is determined in the Trading Account?",
+    "options": {
+      "A": "Factory overheads",
+      "B": "Cost of goods sold",
+      "C": "Prime cost",
+      "D": "Net profit"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "27ead60d-3e20-42ff-9ce9-ae5443bc96c9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A ledger is a",
+    "options": {
+      "A": "book of accounts",
+      "B": "summary of entries",
+      "C": "book of original entry",
+      "D": "double entry posting"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "72e3e29e-a584-4ad9-ae61-efe6115eb2a3",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The unit which keeps government’s books of accounts is the",
+    "options": {
+      "A": "Central Bank",
+      "B": "Internal Audit Department",
+      "C": "Treasury Department",
+      "D": "Accountant General’s Department."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e6e69448-8d9e-4713-9b7f-21c75ed354b6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Rent accrued in 2009 was D140. In 2010, D900 was paid while D160 was outstanding. Rent for 2010 was",
+    "options": {
+      "A": "D1,200.",
+      "B": "D1.060.",
+      "C": "D920.",
+      "D": "D880."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b7c11165-194d-436b-a88b-a55be6526b2e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following items is found in the sales ledger control account?",
+    "options": {
+      "A": "Discount received",
+      "B": "Total credit purchases",
+      "C": "Discount allowed",
+      "D": "Returns outwards"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "75c41f8e-ee57-4648-b5e3-36f074dc719d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An example of a self-balancing account is the",
+    "options": {
+      "A": "suspense account",
+      "B": "creditor’s account",
+      "C": "control account",
+      "D": "debtor’s accoun"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "47278378-2d41-43ea-bcf2-9b29a3a09cb0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Cash receipts and payments involving discounts are entered in",
+    "options": {
+      "A": "three-column cash book.",
+      "B": "two-column cash book.",
+      "C": "analytical cash book.",
+      "D": "petty cash book."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ae85e146-ae05-45d2-9fdf-fd47322241be",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A real account is the account of",
+    "options": {
+      "A": "expenses or losses",
+      "B": "gains or income",
+      "C": "physical tangible items",
+      "D": "fictitious items"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8a768b2a-bdba-4059-a0a2-03046e51846c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a debit item in a partnership \tappropriation account?",
+    "options": {
+      "A": "Interest on drawings",
+      "B": "Partner’s salary",
+      "C": "Interest on partner’s capital",
+      "D": "Share of profit."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f11cab8b-0ad4-404e-a0b4-8e7ec6ddab7d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not an input device?",
+    "options": {
+      "A": "Card reader",
+      "B": "Paper top reader",
+      "C": "Alpha-numeric keyboard",
+      "D": "Line printer"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2bdfdf75-dea7-420f-82ff-c47607f69067",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
+    "options": {
+      "A": "balancing",
+      "B": "set off",
+      "C": "reconciliation",
+      "D": "cancelling"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4553e495-c5a5-4410-a57e-0033d16d248f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The gross profit is",
+    "options": {
+      "A": "GHc/  2,160,000",
+      "B": "GHc/ 1440,000",
+      "C": "GHc/ 1,080,000",
+      "D": "GHc/ 720,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a6cc6080-75f2-4e8d-b7a0-08492a48f4e6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The minimum number of persons required to form a partnership business is",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "5",
+      "D": "10."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bed1e74c-7647-4ab5-80ba-7648f805ed77",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "An item is fictitious because it",
+    "options": {
+      "A": "does not exist",
+      "B": "is too costly",
+      "C": "is worthless",
+      "D": "cannot be sold for cash"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "43633bd8-729e-480a-b190-a1de801ba81a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Revenue is recognized in the profit and loss account as soon as a",
+    "options": {
+      "A": "debtor pays what is due from him",
+      "B": "sale of goods takes place and money is received",
+      "C": "sale of goods takes place whether or not money is received",
+      "D": "sale of a fixed asset takes place."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ca6f1f94-025e-4eb0-b7d1-94f03cac173a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The equivalent of Income and Expenditure Account in a trading concern is",
+    "options": {
+      "A": "Trading Account.",
+      "B": "Profit and Loss Account.",
+      "C": "Appropriation Account.",
+      "D": "Balance Sheet."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "cba0c0b5-3b8a-4bba-aff6-830070532686",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The total of the returns outwards journal is posted to the",
+    "options": {
+      "A": "credit side of the returns outwards book",
+      "B": "debit side of the returns outwards account",
+      "C": "debit side of the purchases returns book",
+      "D": "credit side of the returns outwards account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0aac64ba-a724-46b2-81b5-aa4364554d04",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The cost of sales is",
+    "options": {
+      "A": "GHc/  2,160,000t",
+      "B": "GHc/ 1440,000",
+      "C": "GHc/ 1,080,000",
+      "D": "GHc/  720,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c6c99c13-c349-4680-83aa-a79e5a1faa71",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following accounts has a credit balance?",
+    "options": {
+      "A": "Returns Inwards Account",
+      "B": "Machinery Account",
+      "C": "Sales Account",
+      "D": "Cash Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b0a6544b-d1ac-4938-9f62-6bfa5531f0bc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is not a personal account?",
+    "options": {
+      "A": "Bolaji Account",
+      "B": "Drawings Account",
+      "C": "P.Z. Plc Account",
+      "D": "Cash Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f986e287-db40-41bf-b879-737fbb03fc82",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "“A business unit is assumed to operate into foreseeable future and earn reasonable net income”. This statement is emphasized by the concept of",
+    "options": {
+      "A": "business entity",
+      "B": "going concern",
+      "C": "realization",
+      "D": "accrual."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2d924ca5-6d81-4f78-acb8-891ac0990bdb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The term used to denote the capital of a not-for-profit making \torganization is",
+    "options": {
+      "A": "annuity fund.",
+      "B": "nominal capital.",
+      "C": "circulating capital.",
+      "D": "cumulated fund"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "80d4d880-29e2-4113-9425-d2db2b4e3fc4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is not revealed by a firm’s accounting records?",
+    "options": {
+      "A": "Profit of a period",
+      "B": "Quality of labour force",
+      "C": "Credit worthiness",
+      "D": "Value of assets"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bb3b3eaa-838b-4d95-9e7f-a799db10ffbf",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is not an administrative expenses in a \tmanufacturing organization?",
+    "options": {
+      "A": "Discounts allowed",
+      "B": "Office electricity",
+      "C": "Stationery",
+      "D": "Insurance"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "01e84dc8-de8d-4b02-a91b-991ecafe3f9f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
+    "options": {
+      "A": "materiality concept.",
+      "B": "matching concept.",
+      "C": "consistency concept.",
+      "D": "realization concept."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3a4b2af0-9c71-4408-8243-8bc658e5ba02",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A provision is",
+    "options": {
+      "A": "an expense of business to be paid for in cash",
+      "B": "an amount of loss from trading activities",
+      "C": "a loss in value of all business assets",
+      "D": "an expense the amount of which is not certain"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9351bbb3-89cf-4a06-8c04-53b2efbfa382",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not used in solving problems of incomplete records?",
+    "options": {
+      "A": "Control Accounts",
+      "B": "Statement of affairs",
+      "C": "Cash book",
+      "D": "Balance sheet"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "37db253e-a852-4438-850c-ceec4897338b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The portion of authorized capital that has been allotted to subscribers is",
+    "options": {
+      "A": "called up capital",
+      "B": "paid up capital.",
+      "C": "issued capital",
+      "D": "nominal capital."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "dd7175e2-2a3d-479a-89f1-ef78ef33f19e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "In the balance sheet of a social club, subscription owing is treated as a",
+    "options": {
+      "A": "current liability",
+      "B": "current asset",
+      "C": "tangible asset",
+      "D": "long-term liability"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "79e412f5-990b-4309-95df-4d1a89501a5c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+    "options": {
+      "A": "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "B": "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "C": "Fixed Asset Account; Credit Asset Disposal Account",
+      "D": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "27a007d9-9fc3-4efc-b81b-a4552240c741",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Agreement between partners is contained in the Partnership",
+    "options": {
+      "A": "Act.",
+      "B": "Deed.",
+      "C": "Accord",
+      "D": "Deal."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c65c3875-7eff-46ca-a7fc-d09b26a639a9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "A cash discount is a",
+    "options": {
+      "A": "Trading Account item",
+      "B": "Profit and Loss Account item",
+      "C": "Appropriation Account item",
+      "D": "Receipts and Payments Account item"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b4a17c82-1de9-400b-b164-504458fbfe8b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "In a system of incomplete records, the opening capital is determined by preparing",
+    "options": {
+      "A": "statement of affairs",
+      "B": "balance sheet",
+      "C": "cash book",
+      "D": "trial balance."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "51a11f48-6c4a-41ab-b99f-5b9dbf2a333a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are",
+    "options": {
+      "A": "ordinary partners",
+      "B": "limited partners",
+      "C": "dormant partners",
+      "D": "sleeping partners"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2180b68b-5c8d-4c87-8a30-a9fdec1779e0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
+    "options": {
+      "A": "materiality",
+      "B": "accrual",
+      "C": "going concern",
+      "D": "business entity"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d6aad96e-1a45-45ca-bc7d-3d69bc4ca7ec",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+    "options": {
+      "A": "D33,000",
+      "B": "D28,000",
+      "C": "D23,000",
+      "D": "D5,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0f810df6-0791-4ee5-8380-2ae0f7b43ad5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A low current ratio in a business indicates that the business is",
+    "options": {
+      "A": "faced with long term loan repayment problem.",
+      "B": "efficient in the utilization of its resources.",
+      "C": "unable to pay its bills on time.",
+      "D": "growing its net asset effectively."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "335aaac3-fa0e-47bf-8468-e5eba307f93f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The amount of capital expenditure for 1995 was",
+    "options": {
+      "A": "N  260,000",
+      "B": "N  230,000",
+      "C": "N  220,000",
+      "D": "N  160,000"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8534ba8e-4d52-42a6-94e0-9365a1b3de40",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Cost of raw materials consumed is",
+    "options": {
+      "A": "D113,000",
+      "B": "D105,500",
+      "C": "D98,000",
+      "D": "D95,500."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0f66b0ad-433e-46ea-b840-161dd3e034b2",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "If creditors at 1/1/10 were Le 3,000; creditors at 31/12/10 Le 5,500 and payments to creditors Le 29,000. The purchases figure for 2010 is",
+    "options": {
+      "A": "Le 34,500",
+      "B": "Le 32,000",
+      "C": "Le 31,500",
+      "D": "Le 26,500"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f957d9c7-e10d-4930-b5d3-e2b7af57a35f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The accounting concept that assumes that a business will continue operating for an indefinite period is",
+    "options": {
+      "A": "business entity",
+      "B": "going concern",
+      "C": "consistency",
+      "D": "duality"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "92b8b36f-604a-4f37-81bc-fd8eb63f8b38",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
+    "options": {
+      "A": "surplus",
+      "B": "shortfall",
+      "C": "loss",
+      "D": "deficit"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0c7a075f-561c-4f23-8182-abf384f1f87a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is a recurrent expenditure in public sector accounting?",
+    "options": {
+      "A": "Purchase of vehicles",
+      "B": "Purchase of drugs",
+      "C": "Construction of boreholes",
+      "D": "Construction of buildings"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a6742348-4e5d-40ab-a712-952b9e0218eb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The amount of revenue expenditure for 1995 was",
+    "options": {
+      "A": "N  260,000",
+      "B": "N  230,000",
+      "C": "N  220,000",
+      "D": "N  160,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bcee551b-100e-4048-bfde-c6c8f0256a63",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Prime cost is",
+    "options": {
+      "A": "D120,500",
+      "B": "D117,700",
+      "C": "D114,900",
+      "D": "D114,300."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8c5fe279-c158-438b-8add-de7a137fd363",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not found in the personal ledger?",
+    "options": {
+      "A": "Debtors Account",
+      "B": "Creditors Account",
+      "C": "Capital Account",
+      "D": "Nominal Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c52e3d4c-b78e-4e55-8ed3-1898362231a9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+    "options": {
+      "A": "business entity",
+      "B": "going concern",
+      "C": "consistency",
+      "D": "duality"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "310d7dfd-3bc8-4164-af4a-22a5c76da1eb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The accounting concept underlying the treatment of personal expenses of the business owner as drawing is",
+    "options": {
+      "A": "periodicity",
+      "B": "accrual",
+      "C": "entity",
+      "D": "materiality"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "761ceab0-845d-4000-ae32-edf6b07224f1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "In departmental accounts, administrative expenses are recorded in the",
+    "options": {
+      "A": "Trading Account.",
+      "B": "Balance Sheet.",
+      "C": "Profit and Loss Account.",
+      "D": "Profit and Loss Appropriation Account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2064f0a1-9300-46a2-94e7-da06c832099c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "An expense becomes an accrual because it",
+    "options": {
+      "A": "is due for payment",
+      "B": "is a Profit and Loss Account item",
+      "C": "is a Trading Account item",
+      "D": "is to be paid within the next one year"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "beac7b20-b534-4d76-aed4-3e6f3d72a52e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Cost of goods manufactured is",
+    "options": {
+      "A": "D138,000",
+      "B": "D131,800",
+      "C": "D130,500",
+      "D": "D123,000."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "046aaf84-ee03-4c92-bca0-f7347f7b0e3a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The Sales Ledger Control Account is also referred to as",
+    "options": {
+      "A": "Bought Ledger Control Account.",
+      "B": "Purchases Account.",
+      "C": "Total Debtors Account.",
+      "D": "Total Creditors Account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1c67c631-a189-4b6c-bfcc-855fa0d28574",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Goodwill is recognized in partnership accounts when",
+    "options": {
+      "A": "the business makes a huge profit",
+      "B": "the business has good customer relationship",
+      "C": "a partner is dormant",
+      "D": "a new partner is admitted"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f6a50bf0-71ba-42b7-859c-7d6ce6661c2b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following items is not contained in the Receipts and Payments Account?",
+    "options": {
+      "A": "Subscription paid in advance",
+      "B": "tock paid for in advance",
+      "C": "Outstanding wages and salaries",
+      "D": "Donations"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e48cdd83-dc3a-4dc2-88e6-a0df7f2f1849",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The Public Accounts Committee is an organ of",
+    "options": {
+      "A": "military regime.",
+      "B": "parliament.",
+      "C": "presidency.",
+      "D": "councilors."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7d1910d1-729a-455d-acd0-5b4cb0705ed5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The amount for which a business is sold is known as",
+    "options": {
+      "A": "goodwill",
+      "B": "capital reserve",
+      "C": "purchase consideration",
+      "D": "premium"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5ab62d2b-9030-4e97-8cbe-9b8055199fd4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "A set of instructions fed into a computer for accomplishing a given task is a/an",
+    "options": {
+      "A": "input",
+      "B": "programme",
+      "C": "output",
+      "D": "data."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8f88335f-42d5-4c05-880c-bdcf208a0bb4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Capital expenditure for the year was",
+    "options": {
+      "A": "Le 545,000",
+      "B": "Le 490,000",
+      "C": "Le 450,000",
+      "D": "Le 300,000"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "348d2b42-f7eb-464a-a551-fdb84bdeba2b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "In which of the following accounts is interest on partners capital found?",
+    "options": {
+      "A": "Profit and loss",
+      "B": "Trading",
+      "C": "Income surplus",
+      "D": "Profit and loss appropriation."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9be2ef45-e3e8-4480-95d0-aea2c3c84706",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+    "options": {
+      "A": "consistency concept",
+      "B": "prudence concept",
+      "C": "accrual concept",
+      "D": "going concern concept"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "cb7638c3-1760-4843-a004-181b40a0d584",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The balance at the end of the period is",
+    "options": {
+      "A": "270,000.",
+      "B": "139,000.",
+      "C": "131,000.",
+      "D": "120,000."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "951b6d07-baed-45f6-8dce-26e9fcc75aa3",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The person, who is responsible for the formation of a company is called the",
+    "options": {
+      "A": "promoter",
+      "B": "sponsor",
+      "C": "shareholder",
+      "D": "director"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1296fd09-d3bf-4a95-a7b1-68b7b3cfae35",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Control accounts are also known as",
+    "options": {
+      "A": "contra accounts",
+      "B": "total accounts",
+      "C": "ledger accounts",
+      "D": "integral accounts."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7b1d1dce-a5a0-45ae-a7b6-dee4506f864b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The amount of recurrent expenditure was",
+    "options": {
+      "A": "Le 245,000.",
+      "B": "Le 175,000",
+      "C": "Le 135,00.",
+      "D": "Le 80,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0abcf2e6-fffc-4803-80c7-47ab3b8b3306",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is not stated in the partnership agreement?",
+    "options": {
+      "A": "Profit sharing ratio",
+      "B": "Interest on capital",
+      "C": "Interest on fixed asset",
+      "D": "Purpose of partnership"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "64f3cd16-a760-4c61-bac0-c90c419914b6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+    "options": {
+      "A": "credited to Profit and Loss Account",
+      "B": "debited to Share Premium Account",
+      "C": "credited to Share Capital Account",
+      "D": "credited to share Premium Account"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c9a8107d-a49a-4250-bba6-f1052cfd7cf1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The total expenditure for the period is",
+    "options": {
+      "A": "319,000.",
+      "B": "270,000",
+      "C": "139,000.",
+      "D": "109,000."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c8864172-b5bf-40ff-a609-30d4815edd29",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The amount of a company’s profit given to a shareholder is known as",
+    "options": {
+      "A": "premium",
+      "B": "dividend",
+      "C": "interest",
+      "D": "allotment"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "aeacaf38-8fc8-43ee-b44a-76779fd673e0",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is charged to trading account?",
+    "options": {
+      "A": "Discounts allowed",
+      "B": "Carriage outwards",
+      "C": "Salaries",
+      "D": "Carriage inwards."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4d689204-9dff-460a-8dac-b16443e4f395",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "An increase in the provision for doubtful debts results in a/an",
+    "options": {
+      "A": "increase in the gross profit.",
+      "B": "decrease in the gross profit.",
+      "C": "decrease in the net profit.",
+      "D": "increase in the net profit."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "72fde325-5d8f-4c1a-8bed-48fa5def71a8",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "How much was paid for goodwill?",
+    "options": {
+      "A": "GHc/ 350,000",
+      "B": "GHc/ 260,000",
+      "C": "GHc/  90,000",
+      "D": "GHc/ 60,000"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3319f951-0bd1-47c7-9fe2-776017469d08",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Shares issued below nominal value are referred to as shares at",
+    "options": {
+      "A": "premium",
+      "B": "discount",
+      "C": "face value",
+      "D": "cumulative value"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "81850102-29d1-4e57-bb35-eee498c56ca7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is not an item on the credit side of the purchases ledger control account?",
+    "options": {
+      "A": "Cash received",
+      "B": "Cash payment",
+      "C": "Contra settlement",
+      "D": "Cheque payment"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "39579277-43fb-499a-90dd-d316ac4334c3",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following best describes the path of a transaction?",
+    "options": {
+      "A": "Source documents to Journal to Ledger",
+      "B": "Source documents to Ledger to Journal",
+      "C": "Journal to Ledger to source documents",
+      "D": "Journal to source documents to Ledger"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6af635d7-8ab8-4c8b-8158-a6ac21cff3f7",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+    "options": {
+      "A": "Cash paid",
+      "B": "Returns outwards",
+      "C": "Purchases",
+      "D": "Discounts received"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d0977f97-1406-4b06-afb1-e612fbd8df5b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following errors affects the agreement of a Trial Balance?",
+    "options": {
+      "A": "Wrong addition in the sales account",
+      "B": "Crediting a purchase to A. Tambi’s account instead of F. Tambi’s account",
+      "C": "Failure to enter sales in the books",
+      "D": "Posting the purchase of a van to the debit side of the purchases account"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b16495aa-fa56-4c83-80fd-c19f95a7194f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The double entry to record the goodwill in the books is debit",
+    "options": {
+      "A": "Cash Account and credit Goodwill Account",
+      "B": "Goodwill Account and credit Purchase of Business Account",
+      "C": "Goodwill Account and credit Cash Account",
+      "D": "Purchase of Business Account and credit Cash Account"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "231a7e7b-75bb-4882-941a-da82537ff760",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
+    "options": {
+      "A": "stock turnover",
+      "B": "creditors’ payment period",
+      "C": "debtors collection period",
+      "D": "return on capital employed"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e5fba612-7828-4d4a-b181-e0307eec1693",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "When a business is purchased from a sole trader, the excess of the purchase price over the net assets is",
+    "options": {
+      "A": "reserve.",
+      "B": "goodwill.",
+      "C": "freehold.",
+      "D": "valuation price."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "069189a1-fef0-4e52-965c-e90c672f946e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Where there are no proper books of account, the capital at the commencement of a period is ascertained by preparing",
+    "options": {
+      "A": "Total Debtors and Creditors Accounts",
+      "B": "Bank Reconciliation Statement",
+      "C": "Statement of Affairs",
+      "D": "Trading, Profit and Loss Accounts"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "262b891a-f665-4b46-b3f1-6ce6b2c23552",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Using the straight line method, the depreciation charged for year 2002 was",
+    "options": {
+      "A": "N 160,000",
+      "B": "N  130.000",
+      "C": "N  100,000",
+      "D": "N  60,000"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "39fe0e6e-7d50-4cd9-a9bd-0cec56ea44bb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The excess of the value of assets over the purchase \tconsideration on acquisition of a business is credited to",
+    "options": {
+      "A": "share capital account.",
+      "B": "goodwill account.",
+      "C": "capital reserve account",
+      "D": "general reserve account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3735798b-d81b-44d0-8ddc-b4a45bcb3491",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The document which sets out the internal arrangement for the proper management of a company is the",
+    "options": {
+      "A": "prospectus",
+      "B": "article of association",
+      "C": "memorandum of association",
+      "D": "certificate of incorporation"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0529b662-f1d0-4a79-b115-183b0bdc0ce5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "When the purchase consideration exceeds the value of business, the difference is",
+    "options": {
+      "A": "profit",
+      "B": "discount",
+      "C": "goodwill",
+      "D": "reserve"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6dee01e6-f82e-4d46-bcb1-d1381f75cb75",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A set of instructions or programs which controls the operation of a computer is",
+    "options": {
+      "A": "software.",
+      "B": "hardware.",
+      "C": "monitor.",
+      "D": "keyboard."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9b017c87-1a33-44de-8ff1-6923c2d07ace",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Rent receivable is a",
+    "options": {
+      "A": "current asset",
+      "B": "current liability",
+      "C": "contingent liability",
+      "D": "fictitious asset"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d367c917-4157-4b29-afea-03d255d5614d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Using the reducing balance method, the depreciation charged for year 2002 was",
+    "options": {
+      "A": "N 100,000",
+      "B": "N  90,000",
+      "C": "N  80,000",
+      "D": "N  60,000"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "70342917-ebcf-4046-8ffc-ec627c502ee4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Shares of N3 nominal value were issued at a price of  N4. The difference of N1 is a",
+    "options": {
+      "A": "commission.",
+      "B": "discount.",
+      "C": "premium.",
+      "D": "bonus."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "420e07b1-fbbb-4a47-9d56-944859893a31",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "A person who has applied to purchase shares in a company is referred to as",
+    "options": {
+      "A": "a promoter",
+      "B": "a subscriber",
+      "C": "an allottee",
+      "D": "an underwriter"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f8957b5c-fa39-4ca9-a775-c74930753c1f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The primary classification of government expenditure is based on",
+    "options": {
+      "A": "Programs",
+      "B": "funds",
+      "C": "activity",
+      "D": "project"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "791586ff-5c26-40b0-be52-2e34a99cb431",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The process of detecting, tracing and eliminating errors in a computer program is",
+    "options": {
+      "A": "reproduction.",
+      "B": "debugging.",
+      "C": "sorting.",
+      "D": "retrieving."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "375e0a4d-4d2b-4ccb-949d-5cc9f82277c6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is a factory overhead?",
+    "options": {
+      "A": "carriage on raw materials",
+      "B": "Purchase of raw materials",
+      "C": "Production wages",
+      "D": "Depreciation of factory equipment."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "20413641-d488-4ebe-8c42-1978366deee4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+    "options": {
+      "A": "N  160,000",
+      "B": "N  150,000",
+      "C": "N   130,000",
+      "D": "N  120,000"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "82158748-35ee-41e5-aafb-e699e7cf946d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not the purpose of control account?",
+    "options": {
+      "A": "Check on errors of addition",
+      "B": "Locate errors",
+      "C": "Locate missing figures",
+      "D": "Monitor the cash book"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "207eff65-8576-4be2-8bf8-61fb1860df08",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following expenses is allocated according to the floor \tarea?",
+    "options": {
+      "A": "Wages and Salaries",
+      "B": "Rent and rates",
+      "C": "Canteen expenses",
+      "D": "Discount allowed"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4a5324e4-dd9f-4742-81bc-ec09424b691e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An example of input device of a computer is",
+    "options": {
+      "A": "an optical character reader",
+      "B": "a graph plotter",
+      "C": "a visual display unit",
+      "D": "printer"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ddaca89f-ef76-47cd-9d02-ae0f627ab06c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "In a not-for-profit making organization, the cash book is referred to as",
+    "options": {
+      "A": "income and expenditure account.",
+      "B": "receipts and payments account.",
+      "C": "two column cash book.",
+      "D": "petty cash book."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "39d63489-4b28-4226-92f8-0458f1fdac40",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The purchase consideration was",
+    "options": {
+      "A": "N  24,000",
+      "B": "N 23,000",
+      "C": "N  20,000",
+      "D": "N 15,000"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4065b4fb-7ce0-4dd8-86e7-da5f41b23e62",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a revenue expenditure?",
+    "options": {
+      "A": "Payment: of salaries",
+      "B": "Payment for advertisement",
+      "C": "Purchases of motor vehicle",
+      "D": "Purchases of goods."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8db46ed4-b17c-49f5-af4e-bee6150ef32e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+    "options": {
+      "A": "Arithmetical and Logical unit",
+      "B": "Memory unit",
+      "C": "Input unit",
+      "D": "Control unit"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "542c9db2-562e-4e73-a381-783da35ab0bb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Goods stolen at the branch is debited to",
+    "options": {
+      "A": "Defalcations Account",
+      "B": "Branch Stock Account",
+      "C": "Branch Adjustment Account",
+      "D": "Branch Debtors Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "72151eb6-d5eb-4ffb-aeca-991833d52085",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The accounting concept which states that expenditure involving insignificant amounts should be regarded as expenses and not assets is",
+    "options": {
+      "A": "business entity",
+      "B": "materiality",
+      "C": "dual aspect",
+      "D": "realization"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2c776f2d-e700-4196-ac89-441a5ec282f9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "When the going concern concept is no longer applicable, the fixed assets are recorded at their",
+    "options": {
+      "A": "net book value.",
+      "B": "realizable value.",
+      "C": "gross value.",
+      "D": "revalued amount."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ee4f9842-ba52-4d54-9dd1-1e1decc4ed8a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "The amount of goodwill was",
+    "options": {
+      "A": "N  4,000",
+      "B": "N  3,000",
+      "C": "N  2,000",
+      "D": "N  1,000."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9c21b9ae-dc4a-4072-b7d4-a507cee90166",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The amount allowed off the cost price of an article to stimulate patronage is",
+    "options": {
+      "A": "cash discount",
+      "B": "trade discount",
+      "C": "discount on debt",
+      "D": "discount on bills."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a087a608-9fac-4eb6-9540-7463a34a84ea",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The double entry to record the proceeds on disposal of assets is debit",
+    "options": {
+      "A": "Bank Account; credit Asset Disposal Account.",
+      "B": "Asset Disposal Account; credit Bank Account.",
+      "C": "Provision for Depreciation Account; credit Asset Disposal Account",
+      "D": "Asset Disposal Account; credit Provision for Depreciation Account."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a3c7bffc-1a1d-4ce7-9121-2112f1fa50bd",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is a source of revenue for a local government?",
+    "options": {
+      "A": "Personal income tax",
+      "B": "Company registration fees",
+      "C": "Royalties",
+      "D": "Market tolls"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "35ce6dba-a036-47e5-96a4-d27e6284c2cb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A company made a net profit of N2,000,000 for the year and its net profit percentage is 25%. What is the total sales   for the year?",
+    "options": {
+      "A": "N8,000,000",
+      "B": "N6,000,000",
+      "C": "N800,000",
+      "D": "N500,000"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5550c87d-fc37-4197-80bd-d38fd5ed58d8",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The cost of raw materials consumed is",
+    "options": {
+      "A": "GHc 58,000.",
+      "B": "GHc 52,500.",
+      "C": "GHc 52,000.",
+      "D": "GHc 50,000."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "700153c9-3cbb-4606-b74a-d7d9baa0c4b5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "When a share is sold for less than its nominal value, the difference is called",
+    "options": {
+      "A": "discount",
+      "B": "reserve",
+      "C": "premium",
+      "D": "loss"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8bece134-a9cb-4a80-86cd-0c6da4453080",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is a Journal as well as an account?",
+    "options": {
+      "A": "Sales day book",
+      "B": "Cash book",
+      "C": "General journal",
+      "D": "Purchases journal"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0cbec2c2-4c68-4a39-b977-335129481f74",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "An underwriter for a company’s share is paid",
+    "options": {
+      "A": "Interest.",
+      "B": "commission.",
+      "C": "dividend.",
+      "D": "salary."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0f16a382-af39-4d15-8270-401893ddd106",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The instrument used to release fund which the minister of finance had earlier withheld is",
+    "options": {
+      "A": "reserve expenditure warrant",
+      "B": "supplementary general warrant",
+      "C": "provisional general warrant",
+      "D": "supplementary statutory warrant"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d6be71da-72b7-4f6e-b442-da6f91a2c532",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following information is recorded in the returns outwards book?",
+    "options": {
+      "A": "Goods purchased on credit and subsequently returned to supplier",
+      "B": "Fixed asset bought on credit and subsequently returned to supplier",
+      "C": "Cash payment received from a customer and subsequently returned to supplier",
+      "D": "Goods sold to a customer and subsequently returned to the business."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "15399e7b-8683-4aee-bfca-5d139bb63fd3",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The prime cost is",
+    "options": {
+      "A": "GHc 64,500.",
+      "B": "GHc 64,000.",
+      "C": "GHc 58,500.",
+      "D": "GHc 52,500."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7d0db7b1-90d0-41d2-8a36-1d1af13906f6",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following serves the same purpose as a Trading Account?",
+    "options": {
+      "A": "Branch Adjustment Account",
+      "B": "Goods sent to Branch Account",
+      "C": "Branch Stock Account",
+      "D": "Branch Debtors Account"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c7ba10bc-072b-4f0b-9557-06c3e1a13fab",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following columns of a three column cash book \tare memoranda?  I. Discount received  II. Discount allowed III. Cash IV. Bank",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "ll and IV only."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a020aa2c-2436-4158-a12b-0a713c83df3c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is found in a Memorandum of \tAssociation?",
+    "options": {
+      "A": "Names of directors",
+      "B": "Appointment of directors",
+      "C": "Object of the business",
+      "D": "Payment of dividend"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ef412bfb-0e41-428b-9327-5afca8c87606",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following relates to cash basis of accounting?",
+    "options": {
+      "A": "Accruals and prepayments are considered",
+      "B": "Debtors and creditors are recorded",
+      "C": "Fixed assets are written off in the year of purchase",
+      "D": "Profits are maximized"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "93ca8bc2-e8e1-48ca-969e-9a05dc8254da",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+    "options": {
+      "A": "D408,000",
+      "B": "D346,000",
+      "C": "D284,000",
+      "D": "D62,000"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a30f48f6-6dd5-422b-9758-d86c7ab1e55c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following relates to the essence of partnership? To",
+    "options": {
+      "A": "run a charity organization.",
+      "B": "pursue a social objective.",
+      "C": "form a business for profit.",
+      "D": "run a religious objective."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4e2aeac7-d506-4887-9cd7-b2b286da27c5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 1997,
+    "question": "Which of the following is not a revenue receipt?",
+    "options": {
+      "A": "Receipt from sales of goods",
+      "B": "Rent from premises sublet",
+      "C": "Interest on savings account",
+      "D": "cash on sale of fixed asset"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f5ee26ae-d302-40b7-9004-a1b2247d824b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The adjusted cash book balance is",
+    "options": {
+      "A": "D11,200",
+      "B": "D8,400",
+      "C": "D6,200",
+      "D": "D5,600"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6cc793b5-91fb-4dc5-b351-47422d73f1e1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Administrative, selling and distribution expenses in a \tmanufacturing firm are recorded in",
+    "options": {
+      "A": "Trading Account.",
+      "B": "Manufacturing Account.",
+      "C": "Profit and Loss Account.",
+      "D": "Balance Sheet."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "73dcd7c8-cec9-4a3b-8eff-e2348c560ceb",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
+    "options": {
+      "A": "Interest on capital",
+      "B": "Interest on drawings",
+      "C": "share of profit",
+      "D": "Drawings"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a6fb6a0c-6e4c-483b-8c2d-bce05eb9f643",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The concept applied in answering question 42 above is",
+    "options": {
+      "A": "matching",
+      "B": "consistency",
+      "C": "prudence",
+      "D": "entity"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "12b6d637-cf22-469d-8f5c-1f24f1123dfc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "The basic assumption which underlines the preparation of periodic financial statement is known as accounting",
+    "options": {
+      "A": "bases.",
+      "B": "techniques.",
+      "C": "concepts.",
+      "D": "method."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "17d8beea-7d83-4364-b5a2-f7497c1f570a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "The balance as per bank statement is",
+    "options": {
+      "A": "D10,900",
+      "B": "D8,400",
+      "C": "D5,600",
+      "D": "D2,800"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4b3725b5-2f17-4948-befa-672f5205a9d4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not a revenue to a local government?",
+    "options": {
+      "A": "Fines",
+      "B": "Licenses",
+      "C": "Personal income tax",
+      "D": "Tenement rates"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7fa29b9f-dd5e-40d9-9bdf-de42e721403a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "Which of the following is a spreadsheet application?",
+    "options": {
+      "A": "Excel",
+      "B": "Word",
+      "C": "Internet",
+      "D": "Windows"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "534fabcd-1246-4bfb-bc6c-61ded2bb622c",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Subscriptions in advance is classified in the balance sheet as",
+    "options": {
+      "A": "an asset",
+      "B": "a liability",
+      "C": "a deficit",
+      "D": "a surplus"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d8a18071-48aa-412f-b035-9d4e175185d5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is",
+    "options": {
+      "A": "unsecured creditors.",
+      "B": "partners’ loan and advances.",
+      "C": "secured creditors.",
+      "D": "partners’ capital."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0e6f3678-1586-4dbc-a27a-8617e70c3812",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Where the head office maintains all books of account, goods sent to branch is credited to",
+    "options": {
+      "A": "Goods Sent to Branch Account",
+      "B": "Branch Stock Account",
+      "C": "Branch Stock Adjustment Account",
+      "D": "Head Office Current Account"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c2686d4f-4541-4e5a-bad3-5740d9c428b9",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The capital is",
+    "options": {
+      "A": "D7,580",
+      "B": "D6,580",
+      "C": "D5,380",
+      "D": "D1,000"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "83e3910d-d4f1-4299-85a9-4567656b822f",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2015,
+    "question": "The quality of output information depends on the",
+    "options": {
+      "A": "quality of input data",
+      "B": "time of processing",
+      "C": "speed of processing",
+      "D": "quantity of output device"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9c9fcf92-339c-4c5f-85ce-60dd77ee53d1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following items is not treated in the Profit and Loss Account?",
+    "options": {
+      "A": "Office expenses",
+      "B": "Salaries and allowances",
+      "C": "Carriage inwards",
+      "D": "Discounts allowed"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9f23433a-c514-42fd-9b65-4596bbde1e74",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Stock account is a type of",
+    "options": {
+      "A": "nominal account.",
+      "B": "personal account.",
+      "C": "real account.",
+      "D": "fixed assets account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "387e9c77-abbb-48b0-a950-aa13173c09d1",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not a purpose for preparing departmental accounts? To",
+    "options": {
+      "A": "compare the results of different departments",
+      "B": "employ staff into different departments",
+      "C": "reward departmental managers",
+      "D": "obtain information for formulating policies."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "260c33e0-c0ff-47e4-b44d-9b0a6e8b7090",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "The liability is",
+    "options": {
+      "A": "D7,580",
+      "B": "D6,580",
+      "C": "D5,380",
+      "D": "D1,000"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7c821274-4905-4965-98f2-10ad7148a821",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+    "options": {
+      "A": "a balance sheet",
+      "B": "budget",
+      "C": "an income and expenditure account",
+      "D": "a cash book"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b87fb266-0b8d-4c10-ac0b-8e928538c717",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "At the end of a trading period, cost of goods sold is debited to the trading account while cost of services is        debited to the",
+    "options": {
+      "A": "balance sheet.",
+      "B": "manufacturing account.",
+      "C": "trading account.",
+      "D": "profit and loss account."
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "503305c8-d185-4282-8278-7af0569fb66e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Rent expenses for the year 2005 is",
+    "options": {
+      "A": "N 11,400",
+      "B": "N  11,300",
+      "C": "N  11,200",
+      "D": "N  10,200."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8f0fb539-4c55-4a8d-9cd7-ba0516799bd5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "Which of the following is not an item in the profit and loss account?",
+    "options": {
+      "A": "Drawings",
+      "B": "Interest",
+      "C": "Balances",
+      "D": "Bad debts"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "08416209-9ef3-4f72-ac96-db73fcab4c7b",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A manufacturing account is drawn up by",
+    "options": {
+      "A": "firms providing personal services",
+      "B": "firms engaged solely in buying and selling of goods",
+      "C": "firms which make and sell articles",
+      "D": "non - trading organization."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2a4b45aa-1803-4c79-89a6-f6d6efc91931",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Which of the following is not part of prime costof production?",
+    "options": {
+      "A": "Depreciation of factory equipment",
+      "B": "Direct expenses",
+      "C": "Direct wages",
+      "D": "Carriage on raw materials"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0aaecc8d-2ac8-4760-8fe1-cbef284a3bb4",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2006,
+    "question": "Which of the following is not classified as an overhead?",
+    "options": {
+      "A": "Factory rates",
+      "B": "Factory power",
+      "C": "Factory building extension",
+      "D": "Factory depreciation."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "96da60ad-39ca-410e-9207-3800718b79d5",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2012,
+    "question": "A loss made on the disposal of a fixed asset is debited to",
+    "options": {
+      "A": "Sales Account.",
+      "B": "Purchases Account.",
+      "C": "Profit and Loss Account.",
+      "D": "Capital Account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "427d9103-2231-40ad-90c1-a397198ec04e",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is not a factory overhead cost?",
+    "options": {
+      "A": "Manufacturing wages",
+      "B": "Factory rent",
+      "C": "Depreciation of machinery",
+      "D": "Salary of factory guard"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "68669aec-a5ad-4028-99c1-2f092ea3619d",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "Excess of current assets over current liabilities is",
+    "options": {
+      "A": "deferred capital.",
+      "B": "nominal capital.",
+      "C": "working capital",
+      "D": "authorized capital."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "65d2a876-eff4-4590-8d77-951de57fb229",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A collection of fields relating to one logically definable unit of business information is known as",
+    "options": {
+      "A": "data",
+      "B": "character",
+      "C": "byte",
+      "D": "record"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "86db2333-a43d-4403-9b3c-09176f5e2dbf",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A statement showing a trader’s financial position as at a particular date is a/an",
+    "options": {
+      "A": "trading account.",
+      "B": "profit and loss account.",
+      "C": "balance sheet.",
+      "D": "appropriation account."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "0d8db917-6f61-4db8-a98e-4ff0fd4616fc",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The principle of double entry book - keeping states that",
+    "options": {
+      "A": "every debtor must have a creditor",
+      "B": "every account debited must be immediately credited",
+      "C": "for every debit entry, there must be a corresponding credit entry",
+      "D": "for every double debit, there must be a double credit."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d832e703-7a14-4cd7-9d97-9862d203a35a",
+    "subject": "accounting",
+    "exam_type": "WAEC",
+    "year": 2013,
+    "question": "A trading account is prepared to disclose the",
+    "options": {
+      "A": "net profit or loss for the year.",
+      "B": "gross profit or loss for the year.",
+      "C": "accumulated fund for the year.",
+      "D": "gross profit on manufacturing."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  }
+]

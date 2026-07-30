@@ -66,7 +66,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="hero" aria-labelledby="hero-heading">
         <div className="hero__eyebrow">
-          <span>🇳🇬</span> West Africa's #1 CBT Exam Platform
+          <span>🇳🇬</span> West Africa&apos;s #1 CBT Exam Platform
         </div>
         <h1 className="hero__title" id="hero-heading">
           Ace Your WAEC & GCE<br />

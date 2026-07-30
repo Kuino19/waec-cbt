@@ -5,11 +5,15 @@ import { useRouter } from 'next/navigation'
 import { 
   LayoutDashboard, Library, CalendarDays, LineChart, 
   Zap, Pencil, Clock, CheckCircle2, Trophy, Calculator, 
-  BookOpen, Atom, FlaskConical, Dna, LogOut, BarChart3
+  BookOpen, Atom, FlaskConical, Dna, LogOut, BarChart3, Settings2, SlidersHorizontal,
+  Flame, Target, Award, Users, PlaySquare, Sparkles
 } from 'lucide-react'
 import { SUBJECT_LABELS, SUBJECT_COLORS, type Subject, type ExamResult } from '@/lib/types'
 import { getStoredResults } from '@/lib/examEngine'
 import { getTotalStudyHours } from '@/lib/activeTracker'
+import { ALL_WAEC_SUBJECTS, getStoredStudentSubjects, saveStudentSubjects, WAECSubject } from '@/lib/subjects'
+import { getStreakData, getStudentBadges, Badge } from '@/lib/gamification'
+import SubjectPickerModal from '@/components/cbt/SubjectPickerModal'
 import '@/styles/dashboard.css'
 
 const TIMETABLE = [
@@ -20,36 +24,44 @@ const TIMETABLE = [
   { subject: 'Biology',           date: 'Fri', day: 8,  time: '3:00pm – 5:00pm' },
 ]
 
-const SUBJECTS: { key: Subject; icon: React.ElementType; total: number }[] = [
-  { key: 'mathematics', icon: Calculator,   total: 40 },
-  { key: 'english',     icon: BookOpen,     total: 40 },
-  { key: 'physics',     icon: Atom,         total: 40 },
-  { key: 'chemistry',   icon: FlaskConical, total: 40 },
-  { key: 'biology',     icon: Dna,          total: 40 },
-]
-
 export default function StudentDashboard() {
   const router = useRouter()
   const [user, setUser] = useState<{ name: string; email: string } | null>(null)
   const [studyHours, setStudyHours] = useState(0)
   const [resultsCount, setResultsCount] = useState(0)
   const [bestScore, setBestScore] = useState(0)
-  const [activeTab, setActiveTab] = useState<'dashboard' | 'subjects' | 'timetable' | 'results'>('dashboard')
+  const [activeTab, setActiveTab] = useState<'dashboard' | 'subjects' | 'timetable' | 'results' | 'syllabus'>('dashboard')
   const [mounted, setMounted] = useState(false)
   const [results, setResults] = useState<ExamResult[]>([])
+  const [studentSubjects, setStudentSubjects] = useState<string[]>([])
+  const [isPickerOpen, setIsPickerOpen] = useState(false)
+  const [streak, setStreak] = useState({ currentStreak: 1, lastActiveDate: '' })
+  const [badges, setBadges] = useState<Badge[]>([])
 
   useEffect(() => {
     const raw = localStorage.getItem('cbt_user')
     if (raw) setUser(JSON.parse(raw))
     setStudyHours(getTotalStudyHours())
-    const loaded = getStoredResults()
-    setResults(loaded)
-    setResultsCount(loaded.length)
-    if (loaded.length > 0) {
-      setBestScore(Math.max(...loaded.map(r => r.percentage)))
+    setStudentSubjects(getStoredStudentSubjects())
+    setStreak(getStreakData())
+    setBadges(getStudentBadges())
+
+    async function loadData() {
+      const loaded = await getStoredResults()
+      setResults(loaded)
+      setResultsCount(loaded.length)
+      if (loaded.length > 0) {
+        setBestScore(Math.max(...loaded.map((r: ExamResult) => r.percentage)))
+      }
+      setMounted(true)
     }
-    setMounted(true)
+    loadData()
   }, [])
+
+  const handleSaveSubjects = (newSubjects: string[]) => {
+    saveStudentSubjects(newSubjects)
+    setStudentSubjects(newSubjects)
+  }
 
   function startExam(subject: Subject, mode: 'mock' | 'practice') {
     sessionStorage.setItem('cbt_exam_config', JSON.stringify({ subject, mode }))
@@ -63,6 +75,8 @@ export default function StudentDashboard() {
     return Math.round(subjResults.reduce((a, r) => a + r.percentage, 0) / subjResults.length)
   }
 
+  const selectedWAECSubjects = ALL_WAEC_SUBJECTS.filter((s: WAECSubject) => studentSubjects.includes(s.id))
+
   return (
     <div className="page">
       {/* Navbar */}
@@ -72,7 +86,7 @@ export default function StudentDashboard() {
           <span className="navbar__brand">Edu<span>CBT</span></span>
         </div>
         <div className="navbar__nav">
-          {(['dashboard', 'subjects', 'timetable', 'results'] as const).map(tab => (
+          {(['dashboard', 'subjects', 'timetable', 'results', 'syllabus'] as const).map(tab => (
             <button
               key={tab}
               className={`navbar__link${activeTab === tab ? ' active' : ''}`}
@@ -105,6 +119,7 @@ export default function StudentDashboard() {
               { icon: Library,         label: 'Subjects',   tab: 'subjects' },
               { icon: CalendarDays,    label: 'Timetable',  tab: 'timetable' },
               { icon: LineChart,       label: 'My Results', tab: 'results' },
+              { icon: BookOpen,        label: 'Syllabus',   tab: 'syllabus' },
             ].map(item => (
               <button
                 key={item.tab}
@@ -116,6 +131,55 @@ export default function StudentDashboard() {
               </button>
             ))}
           </div>
+
+          <div className="sidebar__section">
+            <div className="sidebar__label">Exam Tools</div>
+            <button
+              className="sidebar__item"
+              onClick={() => router.push('/student/ai-tutor')}
+              style={{ color: '#38BDF8', fontWeight: 700 }}
+            >
+              <Sparkles size={18} className="sidebar__icon" color="#38BDF8" strokeWidth={2.5} />
+              AI Syllabus Tutor (Gemini)
+            </button>
+            <button
+              className="sidebar__item"
+              onClick={() => router.push('/student/weak-topics')}
+              style={{ color: '#EF4444', fontWeight: 600 }}
+            >
+              <Target size={18} className="sidebar__icon" color="#EF4444" strokeWidth={2.5} />
+              Weak Topic Diagnostic
+            </button>
+            <button
+              className="sidebar__item"
+              onClick={() => router.push('/student/grand-simulation')}
+              style={{ color: '#F59E0B', fontWeight: 600 }}
+            >
+              <Trophy size={18} className="sidebar__icon" color="#F59E0B" strokeWidth={2.5} />
+              Full WAEC Simulation
+            </button>
+            <button
+              className="sidebar__item"
+              onClick={() => router.push('/parent')}
+              style={{ color: '#8B5CF6', fontWeight: 600 }}
+            >
+              <Users size={18} className="sidebar__icon" color="#8B5CF6" strokeWidth={2.5} />
+              Parent Portal
+            </button>
+          </div>
+
+          <div className="sidebar__section">
+            <div className="sidebar__label">WAEC Registration</div>
+            <button
+              className="sidebar__item"
+              onClick={() => setIsPickerOpen(true)}
+              style={{ color: '#0EA5E9', fontWeight: 700 }}
+            >
+              <SlidersHorizontal size={18} className="sidebar__icon" color="#0EA5E9" strokeWidth={2.5} />
+              Configure 9 Subjects
+            </button>
+          </div>
+
           <div className="sidebar__section">
             <div className="sidebar__label">Quick Start</div>
             <button
@@ -141,18 +205,51 @@ export default function StudentDashboard() {
           {/* DASHBOARD TAB */}
           {activeTab === 'dashboard' && (
             <div className="fade-in">
-              <div className="welcomeBanner">
-                <div className="welcomeBanner__greeting">Good day, champion</div>
-                <h1 className="welcomeBanner__name">
-                  {user?.name ? `Welcome back, ${user.name.split(' ')[0]}!` : 'Welcome to EduCBT!'}
-                </h1>
-                <p className="welcomeBanner__meta">
-                  WAEC 2026 · Science Bundle · 5 Subjects Selected
-                </p>
+              <div className="welcomeBanner" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+                <div>
+                  <div className="welcomeBanner__greeting">Good day, champion</div>
+                  <h1 className="welcomeBanner__name">
+                    {user?.name ? `Welcome back, ${user.name.split(' ')[0]}!` : 'Welcome to EduCBT!'}
+                  </h1>
+                  <p className="welcomeBanner__meta">
+                    WAEC 2026 · <strong>{studentSubjects.length} Registered Subjects Selected</strong>
+                  </p>
+                </div>
+
+                <button
+                  onClick={() => setIsPickerOpen(true)}
+                  style={{
+                    background: 'rgba(255, 255, 255, 0.15)',
+                    backdropFilter: 'blur(8px)',
+                    border: '1px solid rgba(255, 255, 255, 0.3)',
+                    color: 'white',
+                    padding: '0.65rem 1.25rem',
+                    borderRadius: '0.75rem',
+                    fontWeight: 700,
+                    fontSize: '0.875rem',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '0.5rem',
+                    cursor: 'pointer',
+                    boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
+                  }}
+                >
+                  <Settings2 size={18} />
+                  Change My 9 Subjects
+                </button>
               </div>
 
               {/* Quick Stats */}
               <div className="quickStats" aria-label="Study statistics">
+                <div className="quickStatCard">
+                  <div className="quickStatCard__icon" style={{ background: 'rgba(239, 68, 68, 0.1)', color: '#EF4444' }}>
+                    <Flame size={24} />
+                  </div>
+                  <div className="quickStatCard__data">
+                    <div className="quickStatCard__value">{mounted ? `${streak.currentStreak}d` : '--'}</div>
+                    <div className="quickStatCard__label">Daily Practice Streak</div>
+                  </div>
+                </div>
                 <div className="quickStatCard">
                   <div className="quickStatCard__icon" style={{ background: 'rgba(14,165,233,0.1)', color: 'var(--color-teal)' }}>
                     <Clock size={24} />
@@ -180,38 +277,44 @@ export default function StudentDashboard() {
                     <div className="quickStatCard__label">Best Score</div>
                   </div>
                 </div>
-                <div className="quickStatCard">
-                  <div className="quickStatCard__icon" style={{ background: 'rgba(139,92,246,0.1)', color: 'var(--color-purple)' }}>
-                    <CalendarDays size={24} />
-                  </div>
-                  <div className="quickStatCard__data">
-                    <div className="quickStatCard__value">4</div>
-                    <div className="quickStatCard__label">Days to Next Exam</div>
-                  </div>
-                </div>
               </div>
 
               {/* Subject Cards */}
-              <div style={{ marginBottom: 'var(--sp-4)' }}>
-                <h2 className="section__title" style={{ fontSize: 'var(--text-xl)', marginBottom: 'var(--sp-2)' }}>
-                  Your Subjects
-                </h2>
+              <div style={{ marginBottom: 'var(--sp-4)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                <div>
+                  <h2 className="section__title" style={{ fontSize: 'var(--text-xl)', marginBottom: '0.25rem' }}>
+                    Your 9 Registered Subjects
+                  </h2>
+                  <p style={{ fontSize: '0.85rem', color: 'var(--color-muted)', margin: 0 }}>
+                    Practise or take timed mock exams for your selected subjects.
+                  </p>
+                </div>
+                <button
+                  onClick={() => setIsPickerOpen(true)}
+                  className="btn btn--ghost btn--sm"
+                  style={{ display: 'flex', alignItems: 'center', gap: 6 }}
+                >
+                  <SlidersHorizontal size={14} /> Edit Subjects
+                </button>
               </div>
+
               <div className="subjectGrid">
-                {SUBJECTS.map(s => {
-                  const score = getSubjectScore(s.key)
-                  const color = SUBJECT_COLORS[s.key]
+                {selectedWAECSubjects.map((s: WAECSubject) => {
+                  const score = getSubjectScore(s.id as Subject)
+                  const color = s.color || '#0EA5E9'
                   return (
                     <div
-                      key={s.key}
+                      key={s.id}
                       className="subjectCard"
                       style={{ '--card-accent': color, '--card-accent-light': `${color}18` } as React.CSSProperties}
                     >
                       <div className="subjectCard__icon" style={{ color: color }}>
-                        <s.icon size={28} />
+                        <BookOpen size={28} />
                       </div>
-                      <div className="subjectCard__name">{SUBJECT_LABELS[s.key]}</div>
-                      <div className="subjectCard__count">{s.total} questions available</div>
+                      <div className="subjectCard__name">{s.name}</div>
+                      <div className="subjectCard__count" style={{ textTransform: 'capitalize' }}>
+                        {s.category} Subject · Exam Ready
+                      </div>
                       {score !== null && (
                         <>
                           <div style={{ fontSize: 'var(--text-xs)', color: 'var(--color-muted)' }}>
@@ -225,14 +328,14 @@ export default function StudentDashboard() {
                       <div className="subjectCard__actions">
                         <button
                           className="btn btn--primary btn--sm"
-                          onClick={() => startExam(s.key, 'mock')}
+                          onClick={() => startExam(s.id as Subject, 'mock')}
                           style={{ flex: 1 }}
                         >
                           Mock Exam
                         </button>
                         <button
                           className="btn btn--ghost btn--sm"
-                          onClick={() => startExam(s.key, 'practice')}
+                          onClick={() => startExam(s.id as Subject, 'practice')}
                           style={{ flex: 1 }}
                         >
                           Practice
@@ -248,38 +351,50 @@ export default function StudentDashboard() {
           {/* SUBJECTS TAB */}
           {activeTab === 'subjects' && (
             <div className="fade-in">
-              <h1 className="section__title">Choose a Subject</h1>
-              <p className="section__subtitle" style={{ marginBottom: 'var(--sp-6)' }}>
-                Select how you want to practise — timed mock exam or instant-feedback practice mode.
-              </p>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1rem', marginBottom: 'var(--sp-6)' }}>
+                <div>
+                  <h1 className="section__title">Your 9 WAEC Subjects</h1>
+                  <p className="section__subtitle" style={{ margin: 0 }}>
+                    Select how you want to practise — timed mock exam or instant-feedback practice mode.
+                  </p>
+                </div>
+                <button
+                  onClick={() => setIsPickerOpen(true)}
+                  className="btn btn--primary"
+                  style={{ display: 'flex', alignItems: 'center', gap: 8 }}
+                >
+                  <SlidersHorizontal size={16} /> Choose / Edit 9 Subjects
+                </button>
+              </div>
+
               <div className="subjectGrid">
-                {SUBJECTS.map(s => {
-                  const color = SUBJECT_COLORS[s.key]
+                {selectedWAECSubjects.map((s: WAECSubject) => {
+                  const color = s.color || '#0EA5E9'
                   return (
                     <div
-                      key={s.key}
+                      key={s.id}
                       className="subjectCard"
                       style={{ '--card-accent': color, '--card-accent-light': `${color}18` } as React.CSSProperties}
                     >
                       <div className="subjectCard__icon" style={{ color: color }}>
-                        <s.icon size={28} />
+                        <BookOpen size={28} />
                       </div>
-                      <div className="subjectCard__name">{SUBJECT_LABELS[s.key]}</div>
-                      <div className="subjectCard__count">{s.total} WAEC questions · Multiple topics</div>
+                      <div className="subjectCard__name">{s.name}</div>
+                      <div className="subjectCard__count">WAEC Past & Mock Questions</div>
                       <div className="subjectCard__actions" style={{ marginTop: 'var(--sp-2)' }}>
                         <button
                           className="btn btn--primary btn--sm"
-                          onClick={() => startExam(s.key, 'mock')}
+                          onClick={() => startExam(s.id as Subject, 'mock')}
                           style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6 }}
-                          title={`Start a timed mock exam for ${SUBJECT_LABELS[s.key]}`}
+                          title={`Start a timed mock exam for ${s.name}`}
                         >
                           <Clock size={14} /> Mock (45 min)
                         </button>
                         <button
                           className="btn btn--ghost btn--sm"
-                          onClick={() => startExam(s.key, 'practice')}
+                          onClick={() => startExam(s.id as Subject, 'practice')}
                           style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 6 }}
-                          title={`Practise ${SUBJECT_LABELS[s.key]} with instant answers`}
+                          title={`Practise ${s.name} with instant answers`}
                         >
                           <Pencil size={14} /> Practice
                         </button>
@@ -421,8 +536,25 @@ export default function StudentDashboard() {
             </div>
           )}
 
+          {/* SYLLABUS TAB */}
+          {activeTab === 'syllabus' && (
+            <div className="fade-in" style={{ height: '100%', minHeight: '80vh' }}>
+              <iframe 
+                src="/student/syllabus" 
+                style={{ width: '100%', height: '100%', border: 'none', borderRadius: 'var(--radius-lg)' }} 
+                title="Syllabus Viewer"
+              />
+            </div>
+          )}
         </main>
       </div>
+
+      <SubjectPickerModal
+        isOpen={isPickerOpen}
+        onClose={() => setIsPickerOpen(false)}
+        currentSubjects={studentSubjects}
+        onSave={handleSaveSubjects}
+      />
     </div>
   )
 }

@@ -53,7 +53,7 @@ export default function NotFound() {
         marginBottom: '40px',
         lineHeight: 1.6
       }} className="fade-in stagger-2">
-        We couldn't find the page you're looking for. It might have been moved or deleted.
+        We couldn&apos;t find the page you&apos;re looking for. It might have been moved or deleted.
       </p>
       
       <div className="fade-in stagger-3">

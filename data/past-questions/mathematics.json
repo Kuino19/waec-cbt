@@ -1,0 +1,617 @@
+[
+  {
+    "id": "df3d6777-a010-4ba8-b94d-3538cb2256a8",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Evaluate (212)<sub>3</sub>  - (121)<sub>3</sub>  + (222)<sub>3</sub>",
+    "options": {
+      "A": "(313)<sub>3</sub>",
+      "B": "(1000)<sub>3</sub>",
+      "C": "(1020)<sub>3</sub>",
+      "D": "(1222)<sub>3</sub>"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ccdc0151-7383-4517-8172-f6f9206dd242",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Factorise (4a + 3)<sup>2</sup>  - (3a - 2)<sup>2</sup>",
+    "options": {
+      "A": "(a + 1)(a + 5)",
+      "B": "(a - 5)(7a - 1)",
+      "C": "(a + 5)(7a + 1)",
+      "D": "a(7a + 1)"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a6a73858-ee7e-442b-a81b-af3cb625a6ca",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find all median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119",
+    "options": {
+      "A": "131",
+      "B": "125",
+      "C": "123",
+      "D": "120"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6d26b734-150d-4165-94db-73cb3a738bc2",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find all real number x which satisfy the inequality 1/3 (x + 1) - 1 > 1/5(x + 4)",
+    "options": {
+      "A": "x < 11",
+      "B": "x < -1",
+      "C": "x > 6",
+      "D": "x > 11"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "eba98686-4819-4b69-968c-f068cf1fb680",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Reach each number to two significant figures and then evaluate (0.02174 × 1.2047)/0.023789",
+    "options": {
+      "A": "0",
+      "B": "0.9",
+      "C": "1.1",
+      "D": "1.2"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4d1aa16d-2d42-4ee5-86f4-f61e2a07e0a2",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Four boys and ten girls can cut a field first in 5 hours. If the boys work at 5/4\n the rate at which the girls work, how many boys will be needed to cut the field in 3 hours?",
+    "options": {
+      "A": "180",
+      "B": "60",
+      "C": "25",
+      "D": "20"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1ab3e35d-d44c-474f-abda-50b5c6d2c9d9",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "What is the circumference of latitude 0°S if R is the radius of the earth?",
+    "options": {
+      "A": "cos θ",
+      "B": "2πR cos θ",
+      "C": "R sin θ",
+      "D": "2 π r sin θ"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1254cfd4-2af4-4e3e-86d5-412326a04728",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room",
+    "options": {
+      "A": "15/17",
+      "B": "8/17",
+      "C": "8/15",
+      "D": "12/17"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e4030e09-5566-4ea2-9329-2001caf034bd",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The goals scored by 40 football teams from three league  divisions are recorded below\n\nNo of goals \t0\t1\t2\t3\t4\t5\t6\nFrequency\t 4\t3\t15\t16\t1\t0\t1\nWhat is the total number of goals scored by all the teams?",
+    "options": {
+      "A": "21",
+      "B": "40",
+      "C": "91",
+      "D": "96"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "71c35364-0704-40de-ac26-8d6138d7a1c1",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics?",
+    "options": {
+      "A": "18",
+      "B": "15",
+      "C": "10",
+      "D": "5"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ea57e5cc-8ea7-411b-87a8-e3e5dd0a8914",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "If log<sub>10</sub> 2 = 0.3010 and log<sub>10</sub> 3 = 0.4771, eventually without using the logarithm tables, log<sub>10</sub> 4.5",
+    "options": {
+      "A": "0.3010",
+      "B": "0.4771",
+      "C": "0.6532",
+      "D": "0.9542"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8eaf44b8-d516-4b40-a23f-eb0ecf0a37a7",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Simplify (324 − 4x<sup>2</sup>)/(2x+18)",
+    "options": {
+      "A": "2(x - 9)",
+      "B": "2(9 + x)",
+      "C": "81 - x<sup>2</sup>",
+      "D": "-2(x - 9)"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "32cc4dde-3689-46e4-810f-134bd94188a5",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "In preparing rice cutlets, a cook used 75g of rice, 40g of margarine, 105g of meat and 20g of bread crumbs. Find the angle of the sector which represent meat in a pie chart?",
+    "options": {
+      "A": "30°",
+      "B": "60°",
+      "C": "112.5°",
+      "D": "157.5°"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "049d47f8-9310-4cf9-b55e-c3ca9517d4d4",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The angle of a sector of a circle radius 10.5 cm is 48o\n. Calculate the perimeter of the sector.",
+    "options": {
+      "A": "25.4 cm",
+      "B": "25.4 cm",
+      "C": "25.6 cm",
+      "D": "29.8 cm"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "13b24390-2329-4729-a2c7-0611b49e7c42",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "What is the product of 27/5,(3)<sup>(−3)</sup> and (1/5)<sup>(−1)</sup>?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "1",
+      "D": "1/25"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "b5a22c6e-7613-4729-a964-a003eba21292",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A crate of soft drinks contains 10 bottle of Coca-Cola 8 of Fanta and 6 of Sprite. If one bottle is selected at random, what is the probability that it is Not a Coca-Cola bottle?",
+    "options": {
+      "A": "5/12",
+      "B": "1/3",
+      "C": "3/4",
+      "D": "7/12"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6749ae68-28e8-4aa7-896a-4586548eb285",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "In this fiqure, PQ = PR = PS and SRT = 68°. Find QPS",
+    "options": {
+      "A": "136°",
+      "B": "124°",
+      "C": "112°",
+      "D": "68°"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fb6d2226-31b8-44b7-941d-b29519484112",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find the gradient of the line passing through the points (-2, 0) and (0, -4)",
+    "options": {
+      "A": "-2",
+      "B": "-4",
+      "C": "-2",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "36744eb9-65e2-4dd0-8f09-011f98ba2c92",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find the equation of the line through the points (5, 7) parallel to the line 7x + 5y = 12.",
+    "options": {
+      "A": "5x + 7y = 120",
+      "B": "7x + 5y = 70",
+      "C": "x + y = 7",
+      "D": "15x + 17y = 90"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c4f01ad3-76f5-416b-83d1-6a55b5caa3dd",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "If N225.00 yields N27.00 in x years simple interest at the rate of 4% per annum, find x.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "12",
+      "D": "17"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5a9b5734-16f9-4dbf-9de7-bd8346ad8663",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Calculate the standard deviation of the following data: 7, 8, 9, 10, 11, 12, 13",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "12",
+      "D": "17"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c646c2b6-8a43-4eb8-9987-4a6e57e09ccd",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A number is selected at random between 20 and 30, both numbers inclusive. Find the probability that the number is a prime.",
+    "options": {
+      "A": "2/11",
+      "B": "5/11",
+      "C": "6/11",
+      "D": "8/11"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "09c5e257-d878-4703-b47d-55ccc2e77746",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The equation of the line in the graph is",
+    "options": {
+      "A": "3y = 3x + 12",
+      "B": "3y = 3x + 12",
+      "C": "3y = -4x + 12",
+      "D": "3y = -4x + 9"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5044121e-e2d7-4490-9a39-6e8b63b83a0d",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Express the product of 0.0014 and 0.011 in standard form",
+    "options": {
+      "A": "1.54 x 10<sup>-2</sup>",
+      "B": "1.54 x 10<sup>-3</sup>",
+      "C": "1.54 x 10<sup>-2</sup>",
+      "D": "1.54 x 10<sup>--5</sup>"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "41e23ff0-9625-4a53-8f35-8b590a99e756",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A school boy lying on the ground 30 m away from the foot of a water tank towel observes that the angle of elevation of the top of the tank is 60°\n. Calculate the height of the tank.",
+    "options": {
+      "A": "60√3 m",
+      "B": "30√3 m",
+      "C": "20√3 m",
+      "D": "10√3 m"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "155e7ec1-24d4-4e5d-a413-11425f377e41",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find the simple interest rate percent annum at which N1000 accumulates to N1240 in 3 years.",
+    "options": {
+      "A": "6%",
+      "B": "8%",
+      "C": "10%",
+      "D": "12%"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1f65086d-09f8-4a07-8e07-9f0ec6fc9934",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The pie chart shows the income of a civil servant in month. If his monthly income is N6,000. Find his monthly basic salary.",
+    "options": {
+      "A": "N2,050",
+      "B": "N2600",
+      "C": "N3,100",
+      "D": "N3,450"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "26c093cf-e38d-46bb-9804-2b8d0b624e11",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "If x is positive real number, find the range of values for which 1/3x + 1/2 > 1/4x",
+    "options": {
+      "A": "x > -1/6",
+      "B": "x > 0",
+      "C": "0 < x < 6",
+      "D": "0 < x <1/6"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "55bc264c-0099-4a07-90bd-eed9f1f36697",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find the value of x if √2/(x+√2)= 1/√(x−2)",
+    "options": {
+      "A": "3√2 + 4",
+      "B": "3 - 2√2",
+      "C": "4 + 2√2",
+      "D": "3√2 + 7"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9e3c60b7-44d6-49be-a128-32032a2f5b60",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A binary operation x is defined by a x b = ab. If a x 2 = 2 - a, find the possible values of a?",
+    "options": {
+      "A": "1, -2",
+      "B": "2, -1",
+      "C": "2, -2",
+      "D": "1, -1"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ac2822ca-165f-4670-bda2-aa2033ea5002",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The chord ST of a circle is equal to the radius r of the circle. Find the length of arc ST",
+    "options": {
+      "A": "πr/3",
+      "B": "πr/2",
+      "C": "πr/12",
+      "D": "πr/6"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ae1d5727-4f2f-45b0-b309-bb573fea89dd",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A sector of circle of radius 7.2cm which substends an angle of 300°\n at the centre is used to form a cone. What s the radius of the base of the cone?",
+    "options": {
+      "A": "8 cm",
+      "B": "9 cm",
+      "C": "6 cm",
+      "D": "7 cm"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "57d080b9-df65-445c-b111-47312955950e",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A cylindrical tank has a capacity of 3080m<sup>3</sup>\n. What is the depth of the tank if the diameter of its base is 14m?",
+    "options": {
+      "A": "25 cm",
+      "B": "23 cm",
+      "C": "22 cm",
+      "D": "20 cm"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "56aa7490-a665-4758-bf2d-ee5069374c02",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The acres for rice, pineapple, cassava, cocoa and palm oil in a certain district are given respectively as 2, 5, 3, 11 and 9. What is the angle of the sector of cassava in a pie chart?",
+    "options": {
+      "A": "180°",
+      "B": "36°",
+      "C": "60°",
+      "D": "108°"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a1a22f02-6a7e-4d4c-9198-3e8bd018dcec",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Three consecutive terms of a geometric progression are give as n - 2, n and n + 3. Find the common ratio",
+    "options": {
+      "A": "3/2",
+      "B": "2/3",
+      "C": "1/2",
+      "D": "1/4"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ff43f62c-33bf-498f-b1b8-a5e26f6e2441",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "In a class of 40 students, 32 offer mathematics, 24 offer physics and 4 offer neither mathematics nor physics. How many offer both mathematics and physics?",
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "20"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2b88add6-00ed-4614-80ca-41daaf82b850",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The sum of the interior angle of pentagon is 6x + 6y. Find y in terms of x.",
+    "options": {
+      "A": "y = 6 - x",
+      "B": "y = 90 - x",
+      "C": "y = 120 - x",
+      "D": "y = 150 - x"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1b5a14d4-aae0-4d65-9a72-372560b3df35",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "The mean age group of some students is 15years. When the age of a teacher, 45 years old, is added to the ages of the students, the mean of their ages become 18 years. Find the number of students in the group.",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "15",
+      "D": "42"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "4aa26e41-cb73-4f6c-8f79-d71a66adb6ca",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "A surveyor walks 500m up a hill which slopes at an angle of 30o\n. Calculate the vertical height through which he rises",
+    "options": {
+      "A": "252 m",
+      "B": "500 m",
+      "C": "250 m",
+      "D": "255 m"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bc559271-8cde-45e5-bccc-cc78fea409c1",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2010,
+    "question": "Find the non-zero positive value of x which satisfies the equation \n\n⎡⎣⎢x101x101x⎤⎦⎥\n = 0",
+    "options": {
+      "A": "2",
+      "B": "√3",
+      "C": "√2",
+      "D": "1"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "334ecaad-4738-4a04-86e0-a2cfa28645ff",
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "year": 2021,
+    "question": "If (x + 2) and (x - 1) are factors of the expression Lx+2kx<sup>2</sup>+24\n, find the values of L and k.",
+    "options": {
+      "A": "l = -12, k = -6",
+      "B": "l = -2 , k = 1",
+      "C": "l = -2 , k = -1",
+      "D": "l = 0, k = 1"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  }
+]

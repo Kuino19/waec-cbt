@@ -1,0 +1,752 @@
+[
+  {
+    "id": "673e692a-3f6f-4663-bf1a-52823a34986b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Climate is the:",
+    "options": {
+      "A": "Prevailing weather conditions of a region for 10 years",
+      "B": "Prevailing weather conditions of a region for 15 years",
+      "C": "Prevailing weather conditions of a region for 35 years",
+      "D": "Prevailing weather conditions of a region for 20 years"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "522685b7-e7cd-4662-a05d-a7d9e3da3404",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Igneous rocks are rocks formed by",
+    "options": {
+      "A": "The cooling of molten minerals from a liquid into a solid.",
+      "B": "The change of minerals from a solid into a liquid",
+      "C": "The deposition of minerals.",
+      "D": "The deposition of minerals a solid into a liquid."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d3e078d2-fafc-448b-aa94-4b4d8018290d",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Temperature is a measure of:",
+    "options": {
+      "A": "The average hotness",
+      "B": "The average coolness",
+      "C": "The average heat.",
+      "D": "The average emission."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e46c2840-46cd-41cf-bb85-2a566dbc7901",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Isotherm refers to:",
+    "options": {
+      "A": "Line that connects points of equal sunshine",
+      "B": "Line that connects points of equal rainfall",
+      "C": "Line that connects points of equal pressure.",
+      "D": "Line that connects points of equal temperature"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "dc8d74e3-0b5d-4236-a73d-c99b6002fb56",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The longest river in Africa is:",
+    "options": {
+      "A": "River Nile.",
+      "B": "River Niger.",
+      "C": "River Benue",
+      "D": "River Zambezi"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "285e9b2c-b446-43b4-8726-4fbf6897b23b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Isobar refers to:",
+    "options": {
+      "A": "Line that connects points of equal humidity.",
+      "B": "Line that connects points of equal rainfall.",
+      "C": "Line that connects points of equal pressure.",
+      "D": "Line that connects points of equal temperature."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "216a1ca9-88c4-4d38-8415-3bc27b6e5a90",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Topographic maps are:",
+    "options": {
+      "A": "Representations of features on the Earth's surface",
+      "B": "Features on the Earth's surface.",
+      "C": "Detailed and accurate graphic representations of features on the Earth's surface",
+      "D": "Geographic coordinate grid on the Earth's surface."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bc95640f-3736-46ad-ae0d-efe842fcae37",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Lesotho is in:",
+    "options": {
+      "A": "South Africa",
+      "B": "West Africa.",
+      "C": "East Africa",
+      "D": "Central Africa"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "6b4c9147-aa81-422f-b31a-b494afa7ff5b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Weathering of rocks is:",
+    "options": {
+      "A": "The formations of rocks",
+      "B": "The breaking down of rocks.",
+      "C": "The deformations of rocks",
+      "D": "The accumulation of rocks."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "d4f662ca-abc3-4465-9c47-ee163ddcd6f6",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Scale of a map is defined as:",
+    "options": {
+      "A": "The ratio of a distance on the drawing board to the corresponding distance on the ground.",
+      "B": "The ratio of a distance on the map to the corresponding distance on the ground",
+      "C": "The ratio of a distance on the tape to the corresponding distance on the ground.",
+      "D": "The ratio of a distance on the ruler to the corresponding distance on the ground"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "dd81b084-8f0a-4c35-866d-44def8601718",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The capital of Niger state in Nigeria is:",
+    "options": {
+      "A": "Gusau",
+      "B": "Yola",
+      "C": "Makurdi",
+      "D": "Minna"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fc4a9410-774d-42e9-a37e-518d89830d1a",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A valley is a:",
+    "options": {
+      "A": "Highland between hills",
+      "B": "Lowland between hills",
+      "C": "Rock between hills",
+      "D": "Highland between trees."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "8f817332-aebc-472a-b1ff-02feebf40eb0",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Nigeria has a total land area of:",
+    "options": {
+      "A": "923,768 km2",
+      "B": "823,768 km2",
+      "C": "623,768 km2",
+      "D": "723,768 km2"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "cf484577-fd54-485a-8c83-f5c77edadb7d",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A lake is a:",
+    "options": {
+      "A": "Large body of water surrounded by forest.",
+      "B": "Large body of water surrounded by land.",
+      "C": "Large body of water surrounded by rocks",
+      "D": "Large body of water surrounded by water."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "80aa82a9-1552-41b2-88e9-59cb65d172b6",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Nigeria is having",
+    "options": {
+      "A": "574 Local Government Areas",
+      "B": "674 Local Government Areas.",
+      "C": "774 Local Government Areas.",
+      "D": "874 Local Government Areas"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "549c94a3-10f6-4fda-9f43-7adcc5dfbe94",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An island is a:",
+    "options": {
+      "A": "Piece of land surrounded by water.",
+      "B": "Piece of land surrounded by land.",
+      "C": "Piece of land surrounded by forest.",
+      "D": "Piece of land surrounded by rocks."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "af6c88c4-62b3-4466-a2a8-ae4ec2e069a9",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The ethnic groups in Nigeria are:",
+    "options": {
+      "A": "More than 250",
+      "B": "More than 150",
+      "C": "More than 100",
+      "D": "Less than 150"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "01f1be85-866e-4a77-a04b-5a6b60998f66",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Orographic rainfall is a:",
+    "options": {
+      "A": "Temperate rainfall",
+      "B": "Relief rainfall.",
+      "C": "Coastal rainfall",
+      "D": "Forest rainfall."
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e2f90f53-a411-472e-ba0c-2cc58d615f48",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "One major societal issues in Nigeria is:",
+    "options": {
+      "A": "Poor feeding.",
+      "B": "Poor human rights",
+      "C": "Poor language",
+      "D": "Poor religion."
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "988b7f97-3742-4831-a26b-e59ef9ee5cde",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The United Nations estimate of Nigeria population in 2009 was",
+    "options": {
+      "A": "154,729,000",
+      "B": "144,729,000.00",
+      "C": "164,729,000.00",
+      "D": "184,729,000.00"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "703ffa8f-3259-47f6-b45f-eb577c5b6e5b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Nigeria lies between",
+    "options": {
+      "A": "Latitudes 4° and 13°N and longitudes 2° and 15°E.",
+      "B": "Latitudes 5° and 14°N and longitudes 4° and 15°E.",
+      "C": "Latitudes 4° and 14°N and longitudes 2° and 15°E.",
+      "D": "Latitudes 2° and 15°N and longitudes 4° and 14°E."
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c0043ba6-95d2-4d9f-9d3d-ac073e33810e",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Kinshasa is a:",
+    "options": {
+      "A": "Central African City",
+      "B": "North African City",
+      "C": "East African City",
+      "D": "South African City"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "127064ee-2a58-4c00-b085-a22d7a4e7b1a",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Freetown is a:",
+    "options": {
+      "A": "North African City",
+      "B": "West African City",
+      "C": "South African City",
+      "D": "East African City"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2b0be2f0-c27e-40b7-b414-354d362f640e",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which one of the following countries is having the highest quality of life?",
+    "options": {
+      "A": "Sweden",
+      "B": "Austria",
+      "C": "United States of America",
+      "D": "England"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a274c5f1-6ebe-4ccd-8912-9b7f2b2b2a67",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Nairobi is a:",
+    "options": {
+      "A": "North African City",
+      "B": "West African City",
+      "C": "South African City",
+      "D": "East African City"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "01e7d436-48b6-4443-b81f-a9d17fad7acc",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The most populated country in the world is:",
+    "options": {
+      "A": "Austria",
+      "B": "China",
+      "C": "United States of America",
+      "D": "Brazil"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2558f1bd-2a13-45c9-b793-eb1fd8fbb711",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Casablanca is a",
+    "options": {
+      "A": "North African City",
+      "B": "West African City",
+      "C": "South African City",
+      "D": "Central African City"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "bb8b6708-e95c-45bc-98d5-2afafb3ba7f9",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The World largest Ocean is:",
+    "options": {
+      "A": "Pacific Ocean",
+      "B": "Atlantic Ocean",
+      "C": "Indian Ocean",
+      "D": "Arctic Ocean"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "9f6131b9-0654-4c9c-969b-b66669c07df3",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Dominican Republic is in:",
+    "options": {
+      "A": "Europe",
+      "B": "Africa",
+      "C": "America",
+      "D": "Asia"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "ac108f17-d27d-4136-8c7c-464e6ccac82f",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The World Longest Coastlines is in:",
+    "options": {
+      "A": "Austria",
+      "B": "England",
+      "C": "United States of America",
+      "D": "Canada"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "df8b917f-38d8-4ecc-9fe7-03d50b2606e0",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is an evidence to show that the earth is spherical in shape?",
+    "options": {
+      "A": "Elliptical orbit",
+      "B": "Ea th s  u ed ho izo",
+      "C": "Revolution of the earth",
+      "D": "Seasonal changes"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c3764b66-d323-4be7-8966-8c604ef42161",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A lines drawn on a maps to show places of equal rainfall is called",
+    "options": {
+      "A": "Rainline",
+      "B": "Isotope",
+      "C": "Isotherm",
+      "D": "Hydrotope"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "33f7e161-4876-4b1d-9fb7-c182fea71587",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Wind erosion is most common in",
+    "options": {
+      "A": "Rocky areas",
+      "B": "Riverine areas",
+      "C": "Arid areas",
+      "D": "Humid areas"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "466401c7-8a7f-4932-a611-5d4d5d1a442a",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The act of graphical representation of places with identified scale and legend is called",
+    "options": {
+      "A": "Scaling",
+      "B": "Mapping",
+      "C": "Sketching",
+      "D": "Drawing"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "e890a814-b43d-414e-a9ba-9cc66f774c0b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "A piece of land almost surrounded by water is called",
+    "options": {
+      "A": "Headland",
+      "B": "Peninsula",
+      "C": "Island",
+      "D": "Plateau"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "44091f95-bb81-42b0-ae07-3e0ec7a5f7d1",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Planet warming the use of water transport is limited by all the following except",
+    "options": {
+      "A": "Wide valleys",
+      "B": "Waterfalls",
+      "C": "Seasonality",
+      "D": "Narrow gorges"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1fa7718e-b549-4ebb-bf49-9eefd8af0251",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "To obtain the climate of a place the average atmospheric weather conditions should be considered",
+    "options": {
+      "A": "20years",
+      "B": "24years",
+      "C": "35years",
+      "D": "10years"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "2ac9f734-46a0-4684-af7a-133b227b0895",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Which of the following is a major hindrance to H.E.P.",
+    "options": {
+      "A": "Inadequate capital",
+      "B": "Unavailability of good sites",
+      "C": "Absence of domestic market",
+      "D": "Sufficient volume of water"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "94580cd1-b5f0-42ce-be33-658050e6f31b",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Isotherms are lines drawn on maps joining places having equal",
+    "options": {
+      "A": "Temperature",
+      "B": "Cloud cover",
+      "C": "Pressure",
+      "D": "Water level"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "83bcb7e2-ca41-4ef0-8713-1c2659db1b5f",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Precipitation include all the following except",
+    "options": {
+      "A": "Fog",
+      "B": "Snow",
+      "C": "Dust",
+      "D": "Dew"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "fcc972ed-23a0-4f9c-a68c-18d5fc652105",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The location of iron and steel industry at Ajaokuta in Nigeria is best explained by the presence of",
+    "options": {
+      "A": "Limestone and coal",
+      "B": "Iron ore",
+      "C": "Bauxite",
+      "D": "Manganese"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "70f49b4f-7bff-48a5-a667-3f5429e1f733",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Settlements can be classified according to all the following except the",
+    "options": {
+      "A": "The arrangements of the building",
+      "B": "Number of people per settlements",
+      "C": "Functions",
+      "D": "The type of people that live in the area"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5b708324-9901-41c9-9b72-f978e7349e0e",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The average hurricane exists, on the average, for about ________.",
+    "options": {
+      "A": "one week",
+      "B": "two weeks",
+      "C": "three weeks",
+      "D": "four weeks"
+    },
+    "answer": "D",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "1cd53bff-de83-4a12-9916-1faca40f2dc6",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "……...Refers to the nature of the surface of an area and the features that abound therein above the sea level",
+    "options": {
+      "A": "Barchans",
+      "B": "Relief",
+      "C": "Plateaux",
+      "D": "Plain"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "7c3bdf08-b8e2-41a5-b924-80903421a526",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Any buoyant parcel of air is said to exhibit ________.",
+    "options": {
+      "A": "Instability",
+      "B": "The dry adiabatic lapse rate",
+      "C": "The moist adiabatic lapse rate",
+      "D": "Advection"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "c78ba718-6225-49bb-844c-6f12dc6ced24",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The north east and south west trade winds meet along a plane surface where they continuously rub",
+    "options": {
+      "A": "Abnormal front",
+      "B": "Leeward front",
+      "C": "Intertropical front",
+      "D": "Windward front"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "a67a47c5-d100-4f66-b908-5eca5b3c2577",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "________ is the time of day when tornadoes are most likely to occur",
+    "options": {
+      "A": "Dawn",
+      "B": "Mid-afternoon",
+      "C": "Evening",
+      "D": "Noon"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "3f3c2dc0-8816-43ac-a452-2cc86f8cf09c",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "Crude oil is ------------  rock mineral",
+    "options": {
+      "A": "An igneous",
+      "B": "A sedimentary",
+      "C": "A metamorphic",
+      "D": "A plutonic"
+    },
+    "answer": "B",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "f8327f9b-0848-48fa-a5b1-64c401622313",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "The new name of Calicut, a famous city of Kerala is",
+    "options": {
+      "A": "Kozhikode",
+      "B": "Trivendrum",
+      "C": "Kalighat",
+      "D": "Koderma"
+    },
+    "answer": "A",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  },
+  {
+    "id": "5b83628a-6633-4bba-b509-e440e833361e",
+    "subject": "geography",
+    "exam_type": "WAEC",
+    "year": 2014,
+    "question": "An anemometer is used to measure",
+    "options": {
+      "A": "wind vane",
+      "B": "wind direction",
+      "C": "wind speed",
+      "D": "wind pressure"
+    },
+    "answer": "C",
+    "explanation": "Detailed step-by-step solution provided in review mode."
+  }
+]

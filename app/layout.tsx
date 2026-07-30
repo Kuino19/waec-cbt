@@ -1,5 +1,6 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans, JetBrains_Mono } from 'next/font/google'
+import OfflineSync from '@/components/cbt/OfflineSync'
 import './globals.css'
 
 const jakarta = Plus_Jakarta_Sans({
@@ -23,6 +24,7 @@ export const metadata: Metadata = {
   },
   description:
     "Nigeria's most comprehensive WAEC, NECO & JAMB CBT practice platform. 10,000+ past questions, AI-powered mock exams, real-time analytics for students, parents and schools across West Africa.",
+  manifest: '/manifest.json',
   keywords: 'WAEC CBT, GCE past questions, NECO practice, JAMB preparation, Nigeria exam prep',
   openGraph: {
     title: 'EduCBT — WAEC & GCE Exam Prep',
@@ -32,10 +34,17 @@ export const metadata: Metadata = {
   },
 }
 
+export const viewport: Viewport = {
+  themeColor: '#0d9488',
+}
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${jakarta.variable} ${jetbrains.variable}`}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <OfflineSync />
+      </body>
     </html>
   )
 }
