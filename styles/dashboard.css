@@ -813,8 +813,53 @@
 @media (max-width: 768px) {
   .sidebar { display: none; }
   .dashboardPage { display: block; }
-  .dashboardMain { padding: var(--sp-4); }
+  .dashboardMain { padding: var(--sp-4); padding-bottom: 80px !important; }
   .welcomeBanner { padding: var(--sp-5); }
   .welcomeBanner__name { font-size: var(--text-xl); }
   .navbar__nav { display: none; }
+}
+
+/* Mobile Bottom Navigation Bar */
+.mobileBottomBar {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobileBottomBar {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background: var(--color-navy);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    z-index: 999;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 0.5rem;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.4);
+  }
+
+  .mobileBottomBar__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    background: none;
+    border: none;
+    color: #94A3B8;
+    font-size: 0.65rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 8px;
+    transition: all 0.15s ease;
+  }
+
+  .mobileBottomBar__item.active,
+  .mobileBottomBar__item:hover {
+    color: #0EA5E9;
+  }
 }

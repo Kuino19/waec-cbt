@@ -555,6 +555,30 @@ export default function StudentDashboard() {
         currentSubjects={studentSubjects}
         onSave={handleSaveSubjects}
       />
+
+      {/* Mobile Bottom Navigation Bar for Smart Phones */}
+      <nav className="mobileBottomBar">
+        <button className="mobileBottomBar__item active" onClick={() => setActiveTab('overview')}>
+          <LayoutDashboard size={20} />
+          <span>Dashboard</span>
+        </button>
+        <button className="mobileBottomBar__item" onClick={() => router.push('/student/ai-tutor')}>
+          <Sparkles size={20} color="#38BDF8" />
+          <span>AI Tutor</span>
+        </button>
+        <button className="mobileBottomBar__item" onClick={() => router.push('/student/weak-topics')}>
+          <Target size={20} color="#EF4444" />
+          <span>Weak Topics</span>
+        </button>
+        <button className="mobileBottomBar__item" onClick={() => router.push('/student/grand-simulation')}>
+          <Trophy size={20} color="#F59E0B" />
+          <span>Simulation</span>
+        </button>
+        <button className="mobileBottomBar__item" onClick={() => router.push('/parent')}>
+          <Users size={20} color="#8B5CF6" />
+          <span>Parent</span>
+        </button>
+      </nav>
     </div>
   )
 }
