@@ -558,7 +558,7 @@ export default function StudentDashboard() {
 
       {/* Mobile Bottom Navigation Bar for Smart Phones */}
       <nav className="mobileBottomBar">
-        <button className="mobileBottomBar__item active" onClick={() => setActiveTab('overview')}>
+        <button className="mobileBottomBar__item active" onClick={() => setActiveTab('dashboard')}>
           <LayoutDashboard size={20} />
           <span>Dashboard</span>
         </button>
