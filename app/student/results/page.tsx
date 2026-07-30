@@ -131,7 +131,6 @@ export default function ResultsPage() {
       {/* Performance Badge */}
       <div className="fade-in stagger-3" style={{ maxWidth: 800, margin: '0 auto var(--sp-8)', textAlign: 'center' }}>
         <div style={{
-          display: 'inline-block',
           padding: 'var(--sp-3) var(--sp-6)',
           borderRadius: 'var(--radius-full)',
           background: result.percentage >= 70

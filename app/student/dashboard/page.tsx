@@ -7,7 +7,7 @@ import {
   Zap, Pencil, Clock, CheckCircle2, Trophy, Calculator, 
   BookOpen, Atom, FlaskConical, Dna, LogOut, BarChart3
 } from 'lucide-react'
-import { SUBJECT_LABELS, SUBJECT_COLORS, type Subject } from '@/lib/types'
+import { SUBJECT_LABELS, SUBJECT_COLORS, type Subject, type ExamResult } from '@/lib/types'
 import { getStoredResults } from '@/lib/examEngine'
 import { getTotalStudyHours } from '@/lib/activeTracker'
 import '@/styles/dashboard.css'
@@ -36,7 +36,7 @@ export default function StudentDashboard() {
   const [bestScore, setBestScore] = useState(0)
   const [activeTab, setActiveTab] = useState<'dashboard' | 'subjects' | 'timetable' | 'results'>('dashboard')
   const [mounted, setMounted] = useState(false)
-  const [results, setResults] = useState<any[]>([])
+  const [results, setResults] = useState<ExamResult[]>([])
 
   useEffect(() => {
     const raw = localStorage.getItem('cbt_user')
