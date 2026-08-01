@@ -53,6 +53,7 @@
   overflow-y: auto;
   padding: var(--sp-8) var(--sp-8);
   background: var(--color-canvas);
+  transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
 }
 
 /* ---- Right Panel: Controls ---- */

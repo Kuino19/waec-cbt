@@ -193,12 +193,14 @@ export async function saveResult(result: ExamResult) {
       throw new Error('Offline')
     }
 
+    const studentPin = user.studentPin || user.id || 'default_user'
+
     const res = await fetch('/api/results', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         id: result.sessionId,
-        userId: user.id,
+        userId: studentPin,
         subject: result.subject,
         score: result.score,
         percentage: result.percentage,

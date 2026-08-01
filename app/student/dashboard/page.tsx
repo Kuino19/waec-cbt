@@ -42,9 +42,16 @@ export default function StudentDashboard() {
     const raw = localStorage.getItem('cbt_user')
     if (raw) setUser(JSON.parse(raw))
     setStudyHours(getTotalStudyHours())
-    setStudentSubjects(getStoredStudentSubjects())
+    const subs = getStoredStudentSubjects()
+    setStudentSubjects(subs)
     setStreak(getStreakData())
     setBadges(getStudentBadges())
+
+    // Auto-open subject picker if flag is set or no subjects selected yet
+    if (localStorage.getItem('prompt_subject_picker') === 'true' || subs.length === 0) {
+      localStorage.removeItem('prompt_subject_picker')
+      setIsPickerOpen(true)
+    }
 
     async function loadData() {
       const loaded = await getStoredResults()

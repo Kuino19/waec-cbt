@@ -1,10 +1,12 @@
 'use client'
 import { useState } from 'react'
 import Link from 'next/link'
+import PinAuthModal from '@/components/auth/PinAuthModal'
 import '@/styles/dashboard.css'
 
 export default function HomePage() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const [isPinModalOpen, setIsPinModalOpen] = useState(false)
 
   const stats = [
     { value: '10,000+', label: 'Past Questions' },
@@ -77,14 +79,16 @@ export default function HomePage() {
           AI-powered mock exams, and real-time analytics for students, parents and schools.
         </p>
         <div className="hero__actions">
-          <Link href="/student/dashboard" className="btn btn--primary btn--lg">
+          <button onClick={() => setIsPinModalOpen(true)} className="btn btn--primary btn--lg">
             Start Practising Free →
-          </Link>
+          </button>
           <Link href="/auth/register?role=school" className="btn btn--outline btn--lg">
             Register Your School
           </Link>
         </div>
       </section>
+
+      <PinAuthModal isOpen={isPinModalOpen} onClose={() => setIsPinModalOpen(false)} />
 
       {/* Stats */}
       <div className="statsRow" aria-label="Platform statistics">

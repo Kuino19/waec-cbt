@@ -278,8 +278,36 @@ function AITutorInner() {
           </button>
         </div>
 
+        {/* Loading Skeleton */}
+        {loading && (
+          <div style={{
+            background: 'rgba(15, 23, 42, 0.95)',
+            border: '1px solid rgba(14, 165, 233, 0.3)',
+            borderRadius: '1.25rem',
+            padding: '2rem',
+            marginBottom: '2rem',
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '1rem',
+            animation: 'pulse 1.5s infinite',
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+              <div style={{ width: 36, height: 36, borderRadius: '0.5rem', background: 'rgba(14, 165, 233, 0.2)' }} />
+              <div>
+                <div style={{ width: 140, height: 14, borderRadius: 4, background: 'rgba(255,255,255,0.1)', marginBottom: 6 }} />
+                <div style={{ width: 220, height: 20, borderRadius: 4, background: 'rgba(14, 165, 233, 0.25)' }} />
+              </div>
+            </div>
+
+            <div style={{ width: '85%', height: 16, borderRadius: 4, background: 'rgba(255,255,255,0.08)', marginTop: '1rem' }} />
+            <div style={{ width: '95%', height: 16, borderRadius: 4, background: 'rgba(255,255,255,0.08)' }} />
+            <div style={{ width: '70%', height: 16, borderRadius: 4, background: 'rgba(255,255,255,0.08)' }} />
+            <div style={{ width: '90%', height: 16, borderRadius: 4, background: 'rgba(255,255,255,0.08)' }} />
+          </div>
+        )}
+
         {/* Explanation Output */}
-        {explanation && (
+        {explanation && !loading && (
           <div style={{
             background: 'rgba(15, 23, 42, 0.95)',
             border: '1px solid rgba(14, 165, 233, 0.4)',
