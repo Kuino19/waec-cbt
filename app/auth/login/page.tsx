@@ -35,16 +35,31 @@ export default function LoginPage() {
           return
         }
 
+        const TEST_PINS: Record<string, { name: string; subjects: string[] }> = {
+          'WAEC2026': { name: 'Master Test Student', subjects: ['mathematics', 'english', 'physics', 'chemistry', 'biology', 'economics', 'further_mathematics', 'civic_education', 'computer_science'] },
+          'TEST88':   { name: 'Science Student', subjects: ['mathematics', 'english', 'physics', 'chemistry', 'biology', 'further_mathematics', 'agricultural_science', 'civic_education', 'data_processing'] },
+          'ARTS99':   { name: 'Arts Student', subjects: ['english', 'mathematics', 'literature_in_english', 'government', 'christian_religious_studies', 'history', 'yoruba', 'civic_education', 'economics'] },
+          'COMM77':   { name: 'Commercial Student', subjects: ['english', 'mathematics', 'financial_accounting', 'commerce', 'economics', 'office_practice', 'marketing', 'civic_education', 'data_processing'] },
+          'DEMO12':   { name: 'General Student', subjects: ['mathematics', 'english', 'physics', 'chemistry', 'biology', 'economics', 'geography', 'civic_education', 'agricultural_science'] },
+        }
+
+        const matchedTest = TEST_PINS[pin]
+
         const studentUser = {
           id: pin,
-          name: `Student (${pin})`,
+          name: matchedTest ? matchedTest.name : `Student (${pin})`,
           role: 'student',
           studentPin: pin,
         }
 
         localStorage.setItem('cbt_user', JSON.stringify(studentUser))
         localStorage.setItem('student_pin', pin)
-        localStorage.setItem('prompt_subject_picker', 'true')
+
+        if (matchedTest) {
+          localStorage.setItem('cbt_student_subjects', JSON.stringify(matchedTest.subjects))
+        } else {
+          localStorage.setItem('prompt_subject_picker', 'true')
+        }
 
         router.push('/student/dashboard')
       } else {
@@ -119,6 +134,37 @@ export default function LoginPage() {
               <p style={{ fontSize: '0.75rem', color: 'var(--color-muted)', marginTop: '0.4rem', textAlign: 'center' }}>
                 Your Parent or School received this PIN upon registration.
               </p>
+
+              {/* Quick Test PIN Buttons */}
+              <div style={{ marginTop: '0.85rem' }}>
+                <div style={{ fontSize: '0.725rem', fontWeight: 700, color: '#94A3B8', marginBottom: '0.35rem', textAlign: 'center' }}>
+                  🔑 Quick Test Access PINs:
+                </div>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.35rem', justifyContent: 'center' }}>
+                  {[
+                    { code: 'WAEC2026', label: 'Master' },
+                    { code: 'TEST88',   label: 'Science' },
+                    { code: 'ARTS99',   label: 'Arts' },
+                    { code: 'COMM77',   label: 'Commercial' },
+                    { code: 'DEMO12',   label: 'General' },
+                  ].map(p => (
+                    <button
+                      key={p.code}
+                      type="button"
+                      onClick={() => setPinInput(p.code)}
+                      style={{
+                        padding: '3px 8px', borderRadius: '6px',
+                        border: '1px solid rgba(14, 165, 233, 0.4)',
+                        background: 'rgba(14, 165, 233, 0.15)',
+                        color: '#38BDF8', fontSize: '0.75rem', fontWeight: 700,
+                        cursor: 'pointer'
+                      }}
+                    >
+                      {p.code} ({p.label})
+                    </button>
+                  ))}
+                </div>
+              </div>
             </div>
           ) : (
             /* Parent & School Login Fields */
