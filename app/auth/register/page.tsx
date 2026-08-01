@@ -34,8 +34,12 @@ export default function RegisterPage() {
       
       const { user } = await res.json()
       localStorage.setItem('cbt_user', JSON.stringify(user))
+      if (user.id) localStorage.setItem('student_pin', user.id)
       
-      if (role === 'student') router.push('/student/dashboard')
+      if (role === 'student') {
+        localStorage.setItem('prompt_subject_picker', 'true')
+        router.push('/student/dashboard')
+      }
       else if (role === 'parent') router.push('/parent/dashboard')
       else router.push('/school/dashboard')
     } catch {

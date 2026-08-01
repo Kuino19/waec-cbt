@@ -6,8 +6,17 @@ import { Link2, Clock, AlertTriangle, Bell, CheckCircle } from 'lucide-react'
 import '@/styles/dashboard.css'
 import type { ExamResult } from '@/lib/types'
 import { SUBJECT_LABELS, SUBJECT_COLORS } from '@/lib/types'
+import AuthGuard from '@/components/auth/AuthGuard'
 
 export default function ParentDashboard() {
+  return (
+    <AuthGuard allowedRoles={['parent']}>
+      <ParentDashboardInner />
+    </AuthGuard>
+  )
+}
+
+function ParentDashboardInner() {
   const [mounted, setMounted] = useState(false)
   const [pin, setPin] = useState('')
   const [linkedPin, setLinkedPin] = useState<string | null>(null)

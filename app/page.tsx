@@ -79,9 +79,9 @@ export default function HomePage() {
           AI-powered mock exams, and real-time analytics for students, parents and schools.
         </p>
         <div className="hero__actions">
-          <button onClick={() => setIsPinModalOpen(true)} className="btn btn--primary btn--lg">
+          <Link href="/auth/register" className="btn btn--primary btn--lg">
             Start Practising Free →
-          </button>
+          </Link>
           <Link href="/auth/register?role=school" className="btn btn--outline btn--lg">
             Register Your School
           </Link>

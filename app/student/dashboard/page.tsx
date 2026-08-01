@@ -13,6 +13,7 @@ import { getStoredResults } from '@/lib/examEngine'
 import { getTotalStudyHours } from '@/lib/activeTracker'
 import { ALL_WAEC_SUBJECTS, getStoredStudentSubjects, saveStudentSubjects, WAECSubject } from '@/lib/subjects'
 import { getStreakData, getStudentBadges, Badge } from '@/lib/gamification'
+import AuthGuard from '@/components/auth/AuthGuard'
 import SubjectPickerModal from '@/components/cbt/SubjectPickerModal'
 import '@/styles/dashboard.css'
 
@@ -25,6 +26,14 @@ const TIMETABLE = [
 ]
 
 export default function StudentDashboard() {
+  return (
+    <AuthGuard allowedRoles={['student']}>
+      <StudentDashboardInner />
+    </AuthGuard>
+  )
+}
+
+function StudentDashboardInner() {
   const router = useRouter()
   const [user, setUser] = useState<{ name: string; email: string } | null>(null)
   const [studyHours, setStudyHours] = useState(0)
