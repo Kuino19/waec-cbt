@@ -29,7 +29,18 @@ export default function ParentDashboard() {
       const res = await fetch(`/api/results?userId=${childPin}`)
       if (res.ok) {
         const data = await res.json()
-        setResults(data)
+        if (Array.isArray(data) && data.length > 0) {
+          setResults(data)
+          return
+        }
+      }
+
+      // Local fallback for offline / client sessions
+      const localData = localStorage.getItem('cbt_exam_results')
+      if (localData) {
+        try {
+          setResults(JSON.parse(localData))
+        } catch (e) {}
       }
     } catch (e) {
       console.error(e)
@@ -82,7 +93,8 @@ export default function ParentDashboard() {
           <span className="navbar__brand">Edu<span>CBT</span></span>
         </div>
         <div className="navbar__nav">
-          <span style={{ color: 'var(--color-teal-light)', fontSize: 'var(--text-sm)' }}>Parent Portal</span>
+          <span style={{ color: 'var(--color-teal-light)', fontSize: 'var(--text-sm)', fontWeight: 600 }}>Parent Portal</span>
+          <Link href="/parent" className="navbar__link" style={{ color: '#38BDF8', fontWeight: 600 }}>🖨️ Printable Report Card</Link>
           <Link href="/" className="navbar__link">Sign Out</Link>
         </div>
       </nav>
