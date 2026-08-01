@@ -174,14 +174,6 @@ function StudentDashboardInner() {
               <Trophy size={18} className="sidebar__icon" color="#F59E0B" strokeWidth={2.5} />
               Full WAEC Simulation
             </button>
-            <button
-              className="sidebar__item"
-              onClick={() => router.push('/parent')}
-              style={{ color: '#8B5CF6', fontWeight: 600 }}
-            >
-              <Users size={18} className="sidebar__icon" color="#8B5CF6" strokeWidth={2.5} />
-              Parent Portal
-            </button>
           </div>
 
           <div className="sidebar__section">
@@ -590,9 +582,9 @@ function StudentDashboardInner() {
           <Trophy size={20} color="#F59E0B" />
           <span>Simulation</span>
         </button>
-        <button className="mobileBottomBar__item" onClick={() => router.push('/parent')}>
-          <Users size={20} color="#8B5CF6" />
-          <span>Parent</span>
+        <button className="mobileBottomBar__item" onClick={() => setActiveTab('syllabus')}>
+          <BookOpen size={20} color="#8B5CF6" />
+          <span>Syllabus</span>
         </button>
       </nav>
     </div>
